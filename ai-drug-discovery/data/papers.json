@@ -1,39 +1,8 @@
 {
   "channel": "ai-drug-discovery",
-  "generated_at": "2026-09-04T21:13:59.608864",
-  "count": 57,
+  "generated_at": "2026-09-05T20:53:13.685508",
+  "count": 30,
   "papers": [
-    {
-      "id": "6897b44ff638",
-      "title": "A transcriptomics-based computational drug repurposing pipeline identifies simvastatin and primaquine as therapeutics for endometriosis.",
-      "abstract": "Endometriosis has limited treatment options, prompting the search for data-driven therapeutics. We previously used a transcriptomics-based computational drug repositioning pipeline and identified several drug candidates. Fenoprofen, our top in silico candidate, was validated in a rat model of endometriosis-associated pain. Building on this, we evaluated two additional candidates, simvastatin and primaquine. Using the rat model, we conducted behavioral testing, bulk RNA sequencing, and differential expression analysis to assess their therapeutic potential. We also assessed endometriosis diagnos",
-      "journal": "iScience",
-      "doi": "10.1016/j.isci.2026.117153",
-      "pmid": "42668641",
-      "first_author": "Oskotsky TT",
-      "pub_date": "2026-Sep-18",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1016%2Fj.isci.2026.117153",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1016%2Fj.isci.2026.117153"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42668641/"
-        }
-      ],
-      "summary": "This study applies a transcriptomics-based computational drug repurposing pipeline to identify simvastatin and primaquine as potential therapeutics for endometriosis, building on prior validation of fenoprofen. Using a rat model, the authors performed behavioral testing and bulk RNA sequencing to evaluate the candidates' efficacy, suggesting these drugs may offer new treatment options for endometriosis.",
-      "significance": "Medium",
-      "tags": [
-        "transcriptomics",
-        "drug-discovery",
-        "clinical"
-      ]
-    },
     {
       "id": "27bbad362d8e",
       "title": "Decoding cancer with artificial intelligence: Transforming research, diagnosis, and therapy with future insights.",
@@ -57,43 +26,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42685611/"
         }
       ],
-      "summary": "This review discusses how artificial intelligence is transforming cancer research, diagnosis, and therapy by enabling pattern recognition and data-driven decision-making across complex genomic, imaging, and clinical datasets. It highlights AI's role in accelerating drug discovery, improving genomic interpretation, and facilitating biomarker identification, offering a comprehensive overview of current advances and future directions.",
+      "summary": "This review discusses how artificial intelligence is transforming cancer research, diagnosis, and therapy by enabling pattern recognition and data-driven decision-making across complex genomic, imaging, and clinical datasets. It highlights AI's role in accelerating drug discovery, improving genomic interpretation, and facilitating biomarker identification, while also addressing future opportunities and challenges.",
       "significance": "Medium",
       "tags": [
         "review",
         "cancer",
         "machine-learning"
-      ]
-    },
-    {
-      "id": "8b5ffb1668b2",
-      "title": "New thinking for the next generation of antimalarials.",
-      "abstract": "Despite decades of intensive research and substantial clinical gains, malaria remains a major global health challenge exacerbated by the continued emergence of drug-resistant strains of the causative agent, Plasmodium parasites. Encouragingly, recent advances in functional genomics, chemical biology and computational science are reshaping antimalarial drug discovery. In this review, we examine the discovery and development of next-generation antimalarials, including advances in phenotypic and target-based screening, omics-enabled target discovery and emerging therapeutic modalities such as lon",
-      "journal": "EMBO molecular medicine",
-      "doi": "10.1038/s44321-026-00515-4",
-      "pmid": "42680902",
-      "first_author": "Asiki H",
-      "pub_date": "2026-Sep-02",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1038%2Fs44321-026-00515-4",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1038%2Fs44321-026-00515-4"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42680902/"
-        }
-      ],
-      "summary": "This review discusses how recent advances in functional genomics, chemical biology, and computational science are transforming antimalarial drug discovery. It highlights new approaches like phenotypic and target-based screening, omics-enabled target identification, and emerging therapeutic modalities to combat drug-resistant malaria.",
-      "significance": "Medium",
-      "tags": [
-        "review",
-        "drug-discovery",
-        "genomics"
       ]
     },
     {
@@ -119,7 +57,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42678624/"
         }
       ],
-      "summary": "This study presents a dual machine-learning approach combining QSAR-GFA and KNIME-based models to discover novel acridine-based inhibitors of Bruton's tyrosine kinase (BTK), a key target for B-cell malignancies. The workflow integrates pharmacophore modeling, virtual screening, and molecular dynamics simulations to identify promising lead compounds with potential to overcome drug resistance.",
+      "summary": "This study identifies novel acridine-based inhibitors of Bruton's tyrosine kinase (BTK) using a dual machine learning approach combining QSAR modeling and KNIME-based predictive models, followed by pharmacophore-based virtual screening and molecular dynamics simulations. The work provides new chemical scaffolds that could help overcome drug resistance in B-cell malignancies.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
@@ -158,160 +96,6 @@
       ]
     },
     {
-      "id": "cdc06d691a06",
-      "title": "Synthesis, X-ray structures and biological evaluation of novel α-aminophosphonate derivatives as anti-inflammatory and antioxidant agents: an integrated in vitro and in silico study.",
-      "abstract": "In the field of medicinal chemistry, the design of small molecules is acknowledged as an effective strategy. This study may contribute to the global fight against inflammatory diseases by focusing on the synthesis of novel α-aminophosphonate derivatives incorporating para-aminobenzoic acid (PABA) and benzocaine moieties and evaluating their anti-inflammatory and antioxidant activities. Compounds 1a-1i, 2a-2g and 3a-3f were efficiently prepared via a one-pot Kabachnik-Fields reaction in moderate to high yields. Structural characterization was achieved using spectroscopic techniques and single-c",
-      "journal": "RSC advances",
-      "doi": "10.1039/d6ra05475g",
-      "pmid": "42683270",
-      "first_author": "Douib Z",
-      "pub_date": "2026-Sep-01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1039%2Fd6ra05475g",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1039%2Fd6ra05475g"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42683270/"
-        }
-      ],
-      "summary": "This study describes the synthesis of novel α-aminophosphonate derivatives containing para-aminobenzoic acid and benzocaine moieties via a one-pot Kabachnik-Fields reaction, followed by structural characterization including X-ray crystallography. The compounds were evaluated for anti-inflammatory and antioxidant activities using in vitro assays and in silico studies, identifying promising leads for further development.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "structural-biology",
-        "methodology"
-      ]
-    },
-    {
-      "id": "13d57342b10d",
-      "title": "Phytochemical Profiling and Antibacterial Activity of Moroccan Monofloral Honeys Against Multidrug-Resistant Uropathogens: In Vitro, ADMET, Molecular Docking, and Molecular Dynamics Approaches.",
-      "abstract": "Urinary tract infections represent a significant public health issue exacerbated by bacterial antibiotic resistance. Honey, due to its phenolic compounds, offers a promising natural alternative. This study explores the phenolic profile of monofloral honeys from the Beni Mellal-Khenifra region and their antibacterial activity against multidrug-resistant strains. Four monofloral honeys from Beni Mellal-Khenifra were analyzed for their phenolic composition and evaluated for antibacterial activity against multidrug-resistant uropathogenic bacteria. Computational studies were also performed to expl",
-      "journal": "Food science & nutrition",
-      "doi": "10.1002/fsn3.72165",
-      "pmid": "42666442",
-      "first_author": "Chikhaoui M",
-      "pub_date": "2026-Sep-01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1002%2Ffsn3.72165",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1002%2Ffsn3.72165"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42666442/"
-        }
-      ],
-      "summary": "This study profiles the phenolic compounds in four Moroccan monofloral honeys and tests their antibacterial activity against multidrug-resistant uropathogenic bacteria, finding promising inhibitory effects. Computational analyses (ADMET, molecular docking, and dynamics) suggest that specific phenolic compounds may be responsible for the antibacterial action, supporting honey as a potential natural alternative for treating resistant urinary tract infections.",
-      "significance": "Medium",
-      "tags": [
-        "metabolomics",
-        "drug-discovery",
-        "microbiology"
-      ]
-    },
-    {
-      "id": "786bfff148cb",
-      "title": "Quinoline and Phthalimide Substituted Silicon Phthalocyanines as Multi-Target Inhibitors of Cholinesterases and Carbonic Anhydrases.",
-      "abstract": "Two novel axially substituted silicon phthalocyanines bearing 5,7-dichloro-8-hydroxy-2-methylquinoline (1a) and N-(hydroxymethyl)phthalimide (2a) moieties were synthesized and characterized by UV-Vis, FT-IR, 1H NMR, and mass spectrometry techniques. The biological potential of the synthesized compounds was evaluated through in vitro inhibition studies against acetylcholinesterase (AChE), butyrylcholinesterase (BChE), and human carbonic anhydrase isoenzymes I and II (hCA I and hCA II). IC50 values were determined as 91.28 ± 25.21, 43.31 ± 20.35, 8.50 ± 2.80 and 23.35 ± 12.98 µM, for compound 1a",
-      "journal": "Journal of biochemical and molecular toxicology",
-      "doi": "10.1002/jbt.71090",
-      "pmid": "42647102",
-      "first_author": "Ünlü S",
-      "pub_date": "2026-Sep-01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1002%2Fjbt.71090",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1002%2Fjbt.71090"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42647102/"
-        }
-      ],
-      "summary": "This study reports the synthesis and characterization of two novel silicon phthalocyanines substituted with quinoline and phthalimide groups, and evaluates their inhibitory activity against cholinesterases and carbonic anhydrases. The compounds showed moderate inhibition, with IC50 values in the micromolar range, suggesting potential as multi-target enzyme inhibitors for therapeutic applications.",
-      "significance": "Low",
-      "tags": [
-        "drug-discovery",
-        "methodology"
-      ]
-    },
-    {
-      "id": "8851ffba3c2d",
-      "title": "Integrated In Silico Discovery of Thymoquinone Analogs Targeting the Keap1-Nrf2 Pathway for Amyotrophic Lateral Sclerosis Therapy.",
-      "abstract": "Oxidative stress drives neuronal vulnerability in amyotrophic lateral sclerosis (ALS), making the Keap1-Nrf2 pathway a vital therapeutic target. While thymoquinone (TQ) modulates this axis, its efficacy is limited by low potency and poor drug-likeness. We utilized an integrated in silico workflow-including validated QSAR modeling (R2 = 0.68, Q2 ext = 0.66), ADMET profiling, docking, 200 ns molecular dynamics, and MM-PBSA analysis-to identify improved TQ-derived Keap1 inhibitors. Screening 64 analogs prioritized three leads (CHEMBL3416163, CHEMBL4636830, and CHEMBL221598) with favorable safety ",
-      "journal": "ChemistryOpen",
-      "doi": "10.1002/open.70286",
-      "pmid": "42613775",
-      "first_author": "Nalicho JC",
-      "pub_date": "2026-Sep-01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1002%2Fopen.70286",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1002%2Fopen.70286"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42613775/"
-        }
-      ],
-      "summary": "This study used a computational pipeline combining QSAR modeling, ADMET prediction, docking, and molecular dynamics to identify three thymoquinone analogs that may better inhibit the Keap1-Nrf2 pathway, a key oxidative stress response target in ALS. The lead compounds showed improved predicted potency and safety profiles compared to thymoquinone, offering promising candidates for further experimental validation.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "machine-learning",
-        "methodology"
-      ]
-    },
-    {
-      "id": "e408cdb5ff1e",
-      "title": "Inhibition and Molecular Recognition of Lactoperoxidase by Acetohydrazide-Based Sulfonamide Derivatives.",
-      "abstract": "Lactoperoxidase (LPO) is a heme-containing enzyme widely distributed in mammalian secretions, contributing to host defense through the generation of antimicrobial oxidants. Unintended inhibition of LPO by therapeutic agents may impair mucosal immunity, making the investigation of potential inhibitors clinically relevant. In this study, the inhibitory effects of 11 acetohydrazide-based sulfonamide derivatives on bovine milk LPO were investigated using combined biochemical and computational approaches. The compounds exhibited diverse inhibition profiles, with IC50 values ranging from 2.32 ± 0.14",
-      "journal": "Journal of molecular recognition : JMR",
-      "doi": "10.1002/jmr.70044",
-      "pmid": "42601597",
-      "first_author": "Gökçe B",
-      "pub_date": "2026-Sep-01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1002%2Fjmr.70044",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1002%2Fjmr.70044"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42601597/"
-        }
-      ],
-      "summary": "This study investigates the inhibitory effects of 11 acetohydrazide-based sulfonamide derivatives on lactoperoxidase (LPO), a key enzyme in mucosal immunity. Using biochemical assays and computational methods, the authors found that these compounds inhibit LPO with varying potency (IC50 values as low as 2.32 µM), which may have clinical implications for drug safety.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "structural-biology",
-        "methodology"
-      ]
-    },
-    {
       "id": "affc70b79bfc",
       "title": "Machine learning of sunitinib resistance genes reveals that SP5 regulates angiogenesis and sunitinib resistance in RCC via the VEGFA/AKT axis.",
       "abstract": "Sunitinib resistance remains a major clinical challenge in renal cell carcinoma, and the underlying molecular mechanisms are incompletely understood. SP5, a member of the specificity protein transcription factor family, has been implicated in tumor progression, but its role in sunitinib resistance and angiogenesis in RCC is unclear.",
@@ -334,7 +118,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42623896/"
         }
       ],
-      "summary": "This study uses machine learning to identify genes associated with sunitinib resistance in renal cell carcinoma (RCC), revealing that the transcription factor SP5 promotes angiogenesis and sunitinib resistance through the VEGFA/AKT signaling axis. The findings suggest SP5 as a potential therapeutic target to overcome sunitinib resistance in RCC.",
+      "summary": "This study identifies SP5 as a key regulator of sunitinib resistance in renal cell carcinoma (RCC) by using machine learning on gene expression data. The authors show that SP5 promotes angiogenesis and resistance through the VEGFA/AKT signaling axis, offering a potential new target to overcome sunitinib resistance.",
       "significance": "Medium",
       "tags": [
         "machine-learning",
@@ -365,7 +149,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42671914/"
         }
       ],
-      "summary": "This paper presents a high-throughput, cross-species drug-discovery platform that tests lifespan-extending compounds across five model organisms (yeast, nematodes, flies, killifish, and mice). By integrating automated imaging, miniaturized assays, and deep-learning-based death detection, the platform screened over 400 compounds and identified key assay confounders, accelerating the discovery of aging interventions.",
+      "summary": "This paper presents a high-throughput, cross-species drug-discovery platform that evaluates lifespan-extending compounds across five model organisms, from yeast to mice. By integrating automated imaging, miniaturized assays, and deep-learning-based death detection, the platform screened over 400 compounds and identified key assay confounders, offering a scalable approach to accelerate aging research.",
       "significance": "High",
       "tags": [
         "drug-discovery",
@@ -374,34 +158,34 @@
       ]
     },
     {
-      "id": "e21a2601ebff",
-      "title": "Olfactory proteomics reveals the capacity of the HDAC1 inhibitor pyroxamide to halt the α-synuclein preformed fibrils-induced damage in nasal epithelial, microglial and dopaminergic neuronal cell lines.",
-      "abstract": "Parkinson's disease (PD) is the second most common neurodegenerative disorder mainly characterized by the degeneration of dopaminergic neurons originating in the substantia nigra (SN) pars compacta and projecting to other brain regions, giving rise to motor and non-motor symptoms. Despite significant progress in understanding the molecular and cellular disruptions associated with PD, there remains an unmet clinical need for effective therapies. In this study, proteomic analysis of the olfactory tract (OT) in controls with no known neurological history (n = 17) and PD subjects (n = 21) revealed",
-      "journal": "Brain pathology (Zurich, Switzerland)",
-      "doi": "10.1111/bpa.70140",
-      "pmid": "42669843",
-      "first_author": "Cartas-Cejudo P",
-      "pub_date": "2026-Aug-30",
+      "id": "c7103f334408",
+      "title": "GRASSP: RNA language model-enhanced graph attention with adaptive gating for RNA-small molecule binding site prediction.",
+      "abstract": "RNA-small molecule binding site prediction is crucial for targeted drug discovery. Sequence-based methods are efficient but often fail to capture structural dependencies between nucleotides, whereas structure-aware graph models can better represent spatial interactions but typically rely on complex structural annotations and multi-stage preprocessing pipelines. We therefore developed GRASSP, a streamlined hybrid deep learning framework that integrates pretrained RNA language model (LM) representations with adaptive graph refinement.",
+      "journal": "Bioinformatics (Oxford, England)",
+      "doi": "10.1093/bioinformatics/btag638",
+      "pmid": "42633564",
+      "first_author": "Nguyen TL",
+      "pub_date": "2026-Aug-31",
       "source": "PubMed",
-      "url": "https://doi.org/10.1111%2Fbpa.70140",
+      "url": "https://doi.org/10.1093%2Fbioinformatics%2Fbtag638",
       "links": [
         {
           "type": "doi",
           "label": "DOI",
-          "url": "https://doi.org/10.1111%2Fbpa.70140"
+          "url": "https://doi.org/10.1093%2Fbioinformatics%2Fbtag638"
         },
         {
           "type": "pubmed",
           "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42669843/"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42633564/"
         }
       ],
-      "summary": "This study uses proteomic analysis of the olfactory tract from Parkinson's disease (PD) patients and controls to identify disease-related changes, and then tests the HDAC1 inhibitor pyroxamide in cell models. The findings suggest that pyroxamide can protect nasal epithelial, microglial, and dopaminergic neuronal cells from damage induced by α-synuclein preformed fibrils, highlighting its potential as a therapeutic for PD.",
+      "summary": "GRASSP is a new deep learning tool that predicts RNA-small molecule binding sites by combining RNA language model embeddings with graph neural networks, avoiding complex structural preprocessing. It improves accuracy over existing methods by capturing both sequence and structural information efficiently, which could aid targeted drug discovery.",
       "significance": "Medium",
       "tags": [
-        "proteomics",
-        "neurodegeneration",
-        "drug-discovery"
+        "machine-learning",
+        "drug-discovery",
+        "RNA"
       ]
     },
     {
@@ -427,7 +211,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42667121/"
         }
       ],
-      "summary": "This paper introduces scPILOT, a deep generative model that uses optimal transport to predict single-cell perturbation responses across different biological contexts, such as cell types and species. The model addresses the challenge of generalizing predictions to unseen contexts, which is important for applications in drug discovery and the development of AI virtual cells.",
+      "summary": "This paper introduces scPILOT, a deep generative model that uses optimal transport to predict single-cell perturbation responses across different biological contexts such as cell types, patients, and species. The model is designed to improve generalizability, addressing a key limitation in current approaches and offering potential utility for virtual cell research and drug discovery.",
       "significance": "High",
       "tags": [
         "single-cell",
@@ -458,12 +242,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42663685/"
         }
       ],
-      "summary": "This study computationally evaluated eight iridoid glycosides from Veronica anagallis-aquatica as potential PDE5 inhibitors for erectile dysfunction, identifying catalposide as a promising lead with selectivity over PDE6, which may reduce visual side effects. The work combines molecular docking and ADMET profiling to support further development of this natural product as a safer alternative to current PDE5 inhibitors.",
+      "summary": "This study computationally evaluated eight iridoid glycosides from Veronica anagallis-aquatica as potential PDE-5 inhibitors for erectile dysfunction, identifying catalposide as the most promising candidate with selectivity over PDE-6. The work combines molecular docking and ADMET profiling to suggest a natural compound that may avoid the visual side effects associated with current PDE-5 inhibitors.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
         "molecular-docking",
-        "clinical"
+        "ADMET"
       ]
     },
     {
@@ -489,7 +273,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42679153/"
         }
       ],
-      "summary": "This perspective highlights the gap in AI adoption for drug discovery between high-income countries and African research ecosystems, where infectious and noncommunicable diseases cause millions of deaths. The authors argue that with adequate support and appropriate models, AI could democratize drug discovery in under-resourced settings, and they call for urgent investment in capacity strengthening.",
+      "summary": "This perspective highlights the gap in AI adoption for drug discovery between high-income countries and African research ecosystems, where infectious and noncommunicable diseases cause millions of deaths. It argues that with proper support and tailored AI models, AI could democratize drug discovery in under-resourced settings, and calls for investment in capacity strengthening.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
@@ -520,12 +304,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42679148/"
         }
       ],
-      "summary": "This review discusses the direct-to-biology (D2B) strategy in medicinal chemistry, which accelerates early drug discovery by synthesizing compounds in miniaturized formats and testing them directly as crude reaction mixtures, bypassing purification. The authors highlight recent advances in synthetic methods, automation, and biological screening that have made D2B a versatile platform for applications such as fragment optimization, covalent ligands, macrocycles, and proteolysis-targeting chimeras.",
+      "summary": "This review discusses Direct-to-Biology (D2B), a strategy that accelerates early drug discovery by synthesizing compounds in miniaturized formats and testing them directly as crude reaction mixtures, bypassing purification. The authors highlight how advances in automation and screening have made D2B a versatile platform applicable to various medicinal chemistry challenges.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
-        "methodology",
-        "review"
+        "review",
+        "methodology"
       ]
     },
     {
@@ -555,38 +339,8 @@
       "significance": "Low",
       "tags": [
         "review",
-        "drug-discovery"
-      ]
-    },
-    {
-      "id": "746cc52dd2c0",
-      "title": "Ligand‑Based Virtual Screening Discovery of Thienopyrimidinone Derivatives as Allosteric nSMase2 Modulators and Antivirals Against West Nile Virus.",
-      "abstract": "Orthoflaviviruses such as West Nile virus (WNV), Zika virus (ZIKV), or dengue virus (DENV) represent a growing global health threat, with millions of annual infections and no approved antiviral therapies. Targeting host pathways represents an alternative antiviral strategy that may overcome limitations associated with direct-acting antivirals, including resistance and narrow antiviral spectra. Neutral sphingomyelinase-2 (nSMase2) plays a central role in sphingolipid metabolism and has emerged as a host factor involved in the replication of several flaviviruses including WNV and ZIKV. Herein, w",
-      "journal": "ChemMedChem",
-      "doi": "10.1002/cmdc.70452",
-      "pmid": "42618991",
-      "first_author": "Álvarez-Fernández H",
-      "pub_date": "2026-Aug-27",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1002%2Fcmdc.70452",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1002%2Fcmdc.70452"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42618991/"
-        }
-      ],
-      "summary": "This study used ligand-based virtual screening to identify thienopyrimidinone derivatives that act as allosteric modulators of nSMase2, a host enzyme involved in flavivirus replication. The compounds showed antiviral activity against West Nile virus, offering a potential host-targeted therapeutic strategy against flaviviruses.",
-      "significance": "Medium",
-      "tags": [
         "drug-discovery",
-        "machine-learning",
-        "virology"
+        "systems-biology"
       ]
     },
     {
@@ -612,43 +366,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42667712/"
         }
       ],
-      "summary": "This proof-of-concept study evaluates novel drug-like molecules generated by an adversarial regularized autoencoder (ARAE) for their synthetic accessibility and potential to inhibit Bruton's tyrosine kinase (BTK), using structure-based computational methods. The work demonstrates the utility of AI-based generative models in exploring uncharted chemical space for therapeutic candidates.",
+      "summary": "This proof-of-concept study evaluates novel drug-like molecules generated by an adversarial regularized autoencoder (ARAE) for their synthetic accessibility and potential to inhibit Bruton's tyrosine kinase (BTK). Using structure-based computational methods, the authors assess whether AI-generated compounds not found in existing databases are viable therapeutic candidates, highlighting the utility of generative models in exploring uncharted chemical space.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
         "machine-learning",
         "deep-learning"
-      ]
-    },
-    {
-      "id": "feb7a5cb59cc",
-      "title": "Computational design and evaluation of tacrine-based carbamate derivatives as acetylcholinesterase inhibitors.",
-      "abstract": "Alzheimer's disease is marked by a gradual decline in cognitive function accompanied by alterations in cholinergic signaling. Cholinergic function can be improved by targeting acetylcholinesterase (AChE). In this work, an in silico approach was applied to study a series of tacrine-based carbamate derivatives. 3D-QSAR models determined by CoMFA and CoMSIA and validated by cross-validation, external testing and Y-randomization were developed using a dataset of 27 compounds. A complementary 2D-QSAR model provided consistent results to support the proposed structure-activity relationships. The sta",
-      "journal": "RSC advances",
-      "doi": "10.1039/d6ra06329b",
-      "pmid": "42656816",
-      "first_author": "El Ouarti H",
-      "pub_date": "2026-Aug-26",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1039%2Fd6ra06329b",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1039%2Fd6ra06329b"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42656816/"
-        }
-      ],
-      "summary": "This study uses computational methods, including 3D-QSAR (CoMFA/CoMSIA) and 2D-QSAR, to design and evaluate tacrine-based carbamate derivatives as potential acetylcholinesterase inhibitors for Alzheimer's disease. The models were validated and provide structure-activity relationships that could guide the development of new drug candidates.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "machine-learning",
-        "methodology"
       ]
     },
     {
@@ -674,104 +397,11 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42633585/"
         }
       ],
-      "summary": "This study identifies a novel small-molecule modulator that targets SNX10 to inhibit osteoclastic bone resorption, offering a potential therapeutic strategy that preserves osteoclast-osteoblast communication. The approach may overcome limitations of current antiresorptive therapies that disrupt this coupling and cause long-term complications.",
+      "summary": "This study identifies a novel small-molecule modulator that targets SNX10 to inhibit osteoclastic bone resorption, offering a potential therapeutic approach that preserves osteoclast-osteoblast communication. The findings suggest a new strategy for treating bone loss that may avoid complications associated with current antiresorptive therapies.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
         "clinical"
-      ]
-    },
-    {
-      "id": "cdb99967d880",
-      "title": "Advances in multimodal data integration for drug efficacy prediction: Methodological evolution and clinical translation.",
-      "abstract": "Drug efficacy prediction remains a cornerstone of drug development and precision therapy. However, integrating heterogeneous biomedical data, including multi-omics profiles, pathological imaging, electronic health records, and pharmacokinetic-pharmacodynamic (PK/PD) time-series, faces three fundamental barriers, namely cross-domain distribution shifts between preclinical and clinical data, relational mismatches between isolated vector representations and biological networks, and feature heterogeneity across disparate modalities. To address these challenges, three AI paradigms have emerged, tra",
-      "journal": "Drug discoveries & therapeutics",
-      "doi": "10.5582/ddt.2026.01042",
-      "pmid": "42633944",
-      "first_author": "Fang J",
-      "pub_date": "2026-Aug-23",
-      "source": "PubMed",
-      "url": "https://doi.org/10.5582%2Fddt.2026.01042",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.5582%2Fddt.2026.01042"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42633944/"
-        }
-      ],
-      "summary": "This review examines recent advances in multimodal data integration for drug efficacy prediction, highlighting three key challenges: cross-domain distribution shifts between preclinical and clinical data, relational mismatches between vector representations and biological networks, and feature heterogeneity across modalities. It discusses emerging AI paradigms that address these barriers and their potential for clinical translation in drug development and precision therapy.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "machine-learning",
-        "review"
-      ]
-    },
-    {
-      "id": "a46632bf7973",
-      "title": "GRASSP: RNA Language Model-Enhanced Graph Attention with Adaptive Gating for RNA-Small Molecule Binding Site Prediction.",
-      "abstract": "RNA-small molecule binding site prediction is crucial for targeted drug discovery. Sequence-based methods are efficient but often fail to capture structural dependencies between nucleotides, whereas structure-aware graph models can better represent spatial interactions but typically rely on complex structural annotations and multi-stage preprocessing pipelines. We therefore developed GRASSP, a streamlined hybrid deep learning framework that integrates pretrained RNA language model (LM) representations with adaptive graph refinement.",
-      "journal": "Bioinformatics (Oxford, England)",
-      "doi": "10.1093/bioinformatics/btag638",
-      "pmid": "42633564",
-      "first_author": "Nguyen TL",
-      "pub_date": "2026-Aug-22",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1093%2Fbioinformatics%2Fbtag638",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1093%2Fbioinformatics%2Fbtag638"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42633564/"
-        }
-      ],
-      "summary": "GRASSP is a new deep learning tool that predicts RNA-small molecule binding sites by combining RNA language model embeddings with graph attention and adaptive gating. It avoids complex structural preprocessing while still capturing spatial dependencies, offering a streamlined and efficient approach for targeted drug discovery.",
-      "significance": "Medium",
-      "tags": [
-        "machine-learning",
-        "deep-learning",
-        "drug-discovery"
-      ]
-    },
-    {
-      "id": "1eed36c7a852",
-      "title": "Design, synthesis, biological evaluation, and in silico studies of novel pyrrolidine based hybrids bearing indole, chromone, and benzoylthiourea pharmacophores as multitarget hCA and AChE inhibitors.",
-      "abstract": "In this study, novel pyrrolidine-based compounds bearing indole, chromone, and benzoylthiourea pharmacophores were rationally designed, synthesized, and evaluated as dual inhibitors of carbonic anhydrase I/II (hCA I, hCA II) and acetylcholinesterase (AChE). The target compounds were synthesized via imine azomethine ylide 1,3-dipolar cycloaddition and in selected cases, benzoyl isothiocyanate condensation reactions. Their structures were fully characterized using FTIR, NMR, microanalysis, and single-crystal X-ray diffraction (for 1ba). Compound 2ad (hCA I, Ki = 35.56 ± 5.10 nM, hCA II, Ki = 31.",
-      "journal": "Computational biology and chemistry",
-      "doi": "10.1016/j.compbiolchem.2026.109337",
-      "pmid": "42659947",
-      "first_author": "Poyraz S",
-      "pub_date": "2026-Aug-22",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1016%2Fj.compbiolchem.2026.109337",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1016%2Fj.compbiolchem.2026.109337"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42659947/"
-        }
-      ],
-      "summary": "This study reports the design and synthesis of novel pyrrolidine-based hybrid compounds incorporating indole, chromone, and benzoylthiourea groups, which act as dual inhibitors of carbonic anhydrase I/II and acetylcholinesterase. The most potent compound (2ad) showed nanomolar inhibition against hCA I and hCA II, with structures confirmed by X-ray crystallography and supported by in silico studies. This work provides a promising scaffold for developing multitarget therapeutics for conditions like Alzheimer's disease and glaucoma.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "methodology",
-        "structural-biology"
       ]
     },
     {
@@ -797,7 +427,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653497/"
         }
       ],
-      "summary": "This paper introduces LMF-CP, an interpretable multimodal late-fusion framework that predicts compound carcinogenicity by integrating multiple molecular data types, aiming to improve accuracy over traditional QSAR methods and reduce reliance on slow, costly animal testing. The framework emphasizes interpretability, which is important for drug safety and chemical risk assessment.",
+      "summary": "This paper introduces LMF-CP, an interpretable multimodal late-fusion framework that predicts compound carcinogenicity by integrating multiple molecular feature types. The approach aims to improve accuracy and interpretability over traditional QSAR methods, offering a computational alternative to animal testing for drug safety and chemical risk assessment.",
       "significance": "Medium",
       "tags": [
         "machine-learning",
@@ -828,136 +458,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653496/"
         }
       ],
-      "summary": "This study benchmarks 20 virtual screening strategies that combine docking, ligand similarity, and machine-learning scoring under fixed experimental budgets across five drug targets. It finds that integration strategies outperform individual methods, with best-rank fusion and sequential funnels showing strong early enrichment, providing practical guidance for decision-centric drug discovery.",
+      "summary": "This study benchmarks 20 virtual screening strategies that combine docking, ligand similarity, and machine-learning QSAR methods under fixed experimental budgets across five drug targets. It finds that integration strategies like consensus and sequential funnels can outperform individual methods, with performance depending on the budget and target, providing practical guidance for decision-centric drug discovery.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
         "machine-learning",
         "methodology"
-      ]
-    },
-    {
-      "id": "ae29c42bef98",
-      "title": "Rational Design of Novel Thiazole-Clubbed Pyrimidine-Linked Hydrazone Conjugates as Promising RSK4 Inhibitors for Esophageal Squamous Cell Carcinoma: Molecular Dynamics Simulations and In Vitro Evaluation.",
-      "abstract": "Background: Esophageal squamous cell carcinoma (ESCC) remains highly aggressive and continues to limit clinical treatment for substantial cancer-associated morbidity and mortality worldwide. Despite advances in therapeutic interventions the lack of effective molecularly targeted treatments continues to restrict clinical management beyond conventional chemotherapy and radiotherapy. Among these therapeutic targets the ribosomal S6 kinase 4 (RSK4) has gained considerable attention because of its critical involvement in ESCC progression, survival and proliferation, suggesting its potential as a po",
-      "journal": "Pharmaceuticals (Basel, Switzerland)",
-      "doi": "10.3390/ph19081323",
-      "pmid": "42653818",
-      "first_author": "Naeem MU",
-      "pub_date": "2026-Aug-21",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fph19081323",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fph19081323"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42653818/"
-        }
-      ],
-      "summary": "This study reports the rational design of novel thiazole-clubbed pyrimidine-linked hydrazone conjugates as potential inhibitors of RSK4 kinase for treating esophageal squamous cell carcinoma (ESCC). Using molecular dynamics simulations and in vitro evaluation, the authors identified promising lead compounds that may serve as a basis for targeted therapy against this aggressive cancer.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "cancer",
-        "molecular-dynamics"
-      ]
-    },
-    {
-      "id": "1062810ae324",
-      "title": "An Integrated Computational Workflow for Discovering Alkaloid-Derived Ligands of Cyclin-Dependent Kinase 2.",
-      "abstract": "Background/Objectives: Cyclin-dependent kinase 2 (CDK2) is a key regulator of cell-cycle progression and a potential anticancer target. This study aimed to identify alkaloid-derived CDK2 ligands using an integrated computational workflow and to obtain preliminary evidence of their effects on cancer-cell viability. Methods: Molecular docking with mVina and fast pulling of ligand (FPL) simulations were benchmarked using 20 experimentally characterized CDK2 inhibitors. A library of 2692 PubChem-derived alkaloids was screened, followed by ADMET evaluation, 100 ns molecular dynamics simulations, an",
-      "journal": "Pharmaceuticals (Basel, Switzerland)",
-      "doi": "10.3390/ph19081320",
-      "pmid": "42653815",
-      "first_author": "Do AT",
-      "pub_date": "2026-Aug-21",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fph19081320",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fph19081320"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42653815/"
-        }
-      ],
-      "summary": "This study presents an integrated computational workflow combining molecular docking, fast pulling of ligand simulations, ADMET evaluation, and molecular dynamics to screen 2692 alkaloids for CDK2 inhibitors, a potential anticancer target. The workflow was benchmarked against known inhibitors and identified promising alkaloid-derived ligands with preliminary evidence of cancer-cell viability effects.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "machine-learning",
-        "cancer"
-      ]
-    },
-    {
-      "id": "ef2f4142cdca",
-      "title": "Telmisartan Repurposing Targets Novel Biomarkers for Precision Colorectal Cancer Therapy.",
-      "abstract": "Background/Objectives: Colorectal cancer (CRC) remains a leading cause of cancer-associated mortality worldwide. The current therapeutic interventions are heavily constrained by the development of resistance and severe systemic toxicity. To address these challenges, this study integrated a multi-disciplinary framework involving high-throughput in silico screening followed by in vitro experimental validation to identify novel genetic targets of CRC and evaluate the efficacy of FDA-approved drugs. The primary objective was to identify safe and selective therapeutic agents capable of modulating t",
-      "journal": "Pharmaceutics",
-      "doi": "10.3390/pharmaceutics18081029",
-      "pmid": "42654148",
-      "first_author": "Hunachagi S",
-      "pub_date": "2026-Aug-20",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fpharmaceutics18081029",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fpharmaceutics18081029"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42654148/"
-        }
-      ],
-      "summary": "This study uses a multi-disciplinary approach combining high-throughput computational screening with in vitro experiments to identify novel genetic targets for colorectal cancer (CRC) and repurpose the FDA-approved drug telmisartan as a potential therapy. The findings suggest telmisartan may modulate specific biomarkers relevant to CRC, offering a safer and more selective treatment option compared to current interventions.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "cancer",
-        "methodology"
-      ]
-    },
-    {
-      "id": "48af04e5053e",
-      "title": "Multi-Target Neuroprotective Effects of Cordycepin and Adenosine from Cordyceps militaris Against Amyloid-β-Induced Neurotoxicity.",
-      "abstract": "Background:Cordyceps militaris (C. militaris) is a medicinal mushroom recognized for its diverse pharmacological activities, largely attributed to its principal bioactive nucleosides, cordycepin and adenosine. Although accumulating evidence supports their neuroprotective potential, the molecular mechanisms underlying their effects against Alzheimer's disease (AD) remain incompletely understood. This study investigated the neuroprotective effects of cordycepin and adenosine against amyloid-β (Aβ42)-induced neurotoxicity and explored their potential molecular mechanisms using integrated experime",
-      "journal": "Biomedicines",
-      "doi": "10.3390/biomedicines14081862",
-      "pmid": "42652243",
-      "first_author": "Thoe ES",
-      "pub_date": "2026-Aug-20",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fbiomedicines14081862",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fbiomedicines14081862"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42652243/"
-        }
-      ],
-      "summary": "This study investigates the neuroprotective effects of cordycepin and adenosine from Cordyceps militaris against amyloid-β-induced neurotoxicity in Alzheimer's disease models. Using integrated experimental approaches, the authors identify multi-target mechanisms that may underlie the protective actions of these compounds, offering potential therapeutic insights for AD.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "neuroscience",
-        "clinical"
       ]
     },
     {
@@ -983,7 +489,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653805/"
         }
       ],
-      "summary": "This study presents an integrated computational workflow combining consensus machine learning with structure-based methods to discover novel Tankyrase 1 (TNKS1) inhibitors, a promising oncology target. The approach uses curated inhibitor datasets and decoys to build a ligand-based virtual screening framework, successfully identifying new candidate compounds.",
+      "summary": "This study presents an integrated computational workflow combining consensus machine learning with structure-based methods to discover novel Tankyrase 1 (TNKS1) inhibitors, a promising oncology target. The approach uses curated experimental data and decoys to build a ligand-based virtual screening model, successfully identifying new candidate inhibitors.",
       "significance": "Medium",
       "tags": [
         "machine-learning",
@@ -1014,43 +520,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42630857/"
         }
       ],
-      "summary": "MetabolEx is a new platform that combines rule-based reaction rules with machine learning to predict Phase I and II drug metabolism, addressing a key bottleneck in early drug discovery. It uses 194 curated reactions and classifiers trained on over 41,000 substrate-metabolite pairs to generate and prioritize potential metabolites, which could help identify safety liabilities and drug-drug interactions earlier.",
+      "summary": "MetabolEx is a new platform that combines rule-based reaction rules with machine learning to predict Phase I and II drug metabolism, addressing a key bottleneck in early drug discovery. It uses 194 curated reactions and classifiers trained on over 41,000 substrate-metabolite pairs to generate and prioritize potential metabolites, which could help identify safety liabilities and optimize pharmacokinetics.",
       "significance": "Medium",
       "tags": [
         "machine-learning",
         "drug-discovery",
         "tool"
-      ]
-    },
-    {
-      "id": "af862a481b8b",
-      "title": "Integrated Virtual Screening and Molecular Electrostatic Surface Potential Descriptors for Predicting BACE1 Inhibitor Interactions in Alzheimer's Disease.",
-      "abstract": "Developing brain-penetrant BACE1 inhibitors remains a major challenge in Alzheimer's disease. Unlike conventional studies focusing solely on binding affinity, this work presents an integrated computational pipeline that prioritizes both potency and pharmacokinetic developability from the outset. A robust quantitative structure-activity relationship (QSAR) model was built for 41 N-(pyridin-3-yl)-picolinamide derivatives using Molecular Electrostatic Surface Potential (MESP) descriptors. Principal component analysis identified three key electrostatic features - mean MESP, variance of negative ME",
-      "journal": "ACS omega",
-      "doi": "10.1021/acsomega.6c02969",
-      "pmid": "42626185",
-      "first_author": "Alvarez-Ginarte Y",
-      "pub_date": "2026-Aug-18",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1021%2Facsomega.6c02969",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1021%2Facsomega.6c02969"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42626185/"
-        }
-      ],
-      "summary": "This study presents an integrated computational pipeline that combines QSAR modeling with molecular electrostatic surface potential (MESP) descriptors to predict BACE1 inhibitor interactions, prioritizing both potency and brain penetrability for Alzheimer's disease drug development. The model, built on 41 N-(pyridin-3-yl)-picolinamide derivatives, identifies key electrostatic features that could guide the design of more developable BACE1 inhibitors.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "machine-learning",
-        "methodology"
       ]
     },
     {
@@ -1076,7 +551,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42654135/"
         }
       ],
-      "summary": "This study systematically evaluates whether adding 3D conformer-derived molecular descriptors improves blood-brain barrier permeability prediction compared to standard 2D descriptors, using the B3DB benchmark dataset and LightGBM regression. The findings clarify the incremental predictive value of 3D descriptors for CNS drug discovery.",
+      "summary": "This study systematically evaluates whether adding 3D conformer-derived molecular descriptors improves blood-brain barrier permeability prediction compared to standard 2D descriptors, using the B3DB benchmark dataset and LightGBM models. The findings clarify the incremental predictive value of 3D descriptors, informing descriptor selection for CNS drug discovery.",
       "significance": "Medium",
       "tags": [
         "machine-learning",
@@ -1107,43 +582,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42643673/"
         }
       ],
-      "summary": "RingKin is a new AI-generated chemical library of 72.27 million macrocycles derived from 495 approved or clinical kinase drugs, designed to systematically explore the vast underexplored macrocyclic space for kinase modulation. This resource could help overcome selectivity and pharmacological challenges in kinase drug development by providing a large, searchable universe of potential macrocyclic kinase inhibitors.",
+      "summary": "RingKin is a new AI-generated chemical library of 72.27 million macrocycles derived from 495 approved or clinical kinase drugs, systematically exploring the vast macrocyclic chemical space for kinase modulation. This resource aims to address selectivity and pharmacological challenges in kinase drug development by providing a comprehensive, underexplored set of candidates.",
       "significance": "High",
       "tags": [
         "drug-discovery",
         "machine-learning",
         "database"
-      ]
-    },
-    {
-      "id": "3a2e50a982c8",
-      "title": "Emerging therapies against infections due to free-living amoebae.",
-      "abstract": "Pathogenic free-living amoebae, including Naegleria fowleri, Acanthamoeba spp. and Balamuthia mandrillaris, are rare but frequently fatal opportunistic pathogens associated with severe central nervous system and ocular infections, and cutaneous infections. Despite advances in understanding their biology and pathogenesis, therapeutic options remain limited, mortality rates remain high, and delayed diagnosis continues to compromise clinical outcomes and public health responses.",
-      "journal": "Expert review of anti-infective therapy",
-      "doi": "10.1080/14787210.2026.2719690",
-      "pmid": "42601790",
-      "first_author": "Siddiqui R",
-      "pub_date": "2026-Aug-17",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1080%2F14787210.2026.2719690",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1080%2F14787210.2026.2719690"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42601790/"
-        }
-      ],
-      "summary": "This review summarizes the current state of therapies for infections caused by pathogenic free-living amoebae, which are rare but often fatal. It highlights that treatment options remain limited and mortality is high, underscoring the need for new therapeutic strategies and improved diagnosis.",
-      "significance": "Medium",
-      "tags": [
-        "review",
-        "clinical",
-        "microbiology"
       ]
     },
     {
@@ -1169,74 +613,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42630795/"
         }
       ],
-      "summary": "This review discusses the use of quantum annealing as an optimization layer in hybrid AI workflows for drug discovery, focusing on discrete tasks like compound selection and multi-objective prioritization that can be formulated as QUBO problems. It highlights how quantum annealing can address the bottleneck of translating large candidate pools into resource-aware decisions.",
+      "summary": "This review discusses how quantum annealing can serve as an optimization layer in hybrid AI workflows for drug discovery, addressing the bottleneck of translating large candidate pools into structured, resource-aware decisions. It focuses on discrete, constraint-dominated tasks like compound subset selection and multi-objective prioritization, which can be formulated as QUBO problems.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
         "machine-learning",
         "review"
-      ]
-    },
-    {
-      "id": "dcdd91b4e431",
-      "title": "Antioxidant and Antidiabetic Activity of the Bulb Extract of Crinum amoenum Roxb. ex Ker Gawl: An Integrated In Vitro, In Vivo and In Silico Approach.",
-      "abstract": "Crinum amoenum Roxb. ex Ker Gawl. (C. amoenum) is traditionally used in Nepal, but its antidiabetic potential remains insufficiently validated. This study characterized the 80% (v/v) ethanol bulb extract of C. amoenum and evaluated its antioxidant, α-amylase inhibitory, hypoglycemic, molecular docking, molecular dynamics (MD) simulation, and ADMET profiles. The ethanolic bulb extract was evaluated through phytochemical screening, thin-layer chromatography, total phenolic content (TPC), total flavonoid content (TFC) estimation, LC-MS analysis, antioxidant assays, α-amylase inhibition assays, ac",
-      "journal": "Antioxidants (Basel, Switzerland)",
-      "doi": "10.3390/antiox15081004",
-      "pmid": "42650268",
-      "first_author": "Jha PK",
-      "pub_date": "2026-Aug-13",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fantiox15081004",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fantiox15081004"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42650268/"
-        }
-      ],
-      "summary": "This study validates the traditional antidiabetic use of Crinum amoenum bulb extract by showing it has antioxidant and α-amylase inhibitory activity in vitro, hypoglycemic effects in vivo, and identifies bioactive compounds via LC-MS and in silico docking/MD simulations. The findings support further investigation of this plant as a natural source for diabetes management.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "metabolomics",
-        "clinical"
-      ]
-    },
-    {
-      "id": "9acd4574b36e",
-      "title": "Structural Preferences and ADMET Regulation of Fluorinated Small-Molecule Drugs.",
-      "abstract": "Fluorination is a powerful yet highly context-dependent strategy in medicinal chemistry. The F-DrugDatabase comprising 1,789 fluorinated small molecules was constructed, including 430 FDA-approved or marketed drugs. Using Bemis-Murcko scaffold analysis and a matched molecular pair (MMP) \"defluorination-hydrogenation\" approach, we reveal that 87.7% of fluorinated drugs contain only 1-3 fluorine atoms, with benzene scaffolds dominating (63.5%). Quantitative MMP analysis indicated that the -CF3 group was associated with an increase in predicted elimination half-life (average Δt1/2 = +12.24 h, P <",
-      "journal": "ACS medicinal chemistry letters",
-      "doi": "10.1021/acsmedchemlett.6c00261",
-      "pmid": "42621483",
-      "first_author": "Tao S",
-      "pub_date": "2026-Aug-13",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1021%2Facsmedchemlett.6c00261",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1021%2Facsmedchemlett.6c00261"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42621483/"
-        }
-      ],
-      "summary": "This study introduces the F-DrugDatabase of 1,789 fluorinated small molecules, including 430 approved drugs, and uses scaffold and matched molecular pair analyses to reveal that most fluorinated drugs contain 1-3 fluorine atoms on benzene rings. The -CF3 group is associated with increased predicted elimination half-life, highlighting how fluorination patterns influence drug metabolism and pharmacokinetic properties.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "database",
-        "methodology"
       ]
     },
     {
@@ -1262,7 +644,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653201/"
         }
       ],
-      "summary": "This paper introduces GAMT-GINE, a graph isomorphism network that integrates continuous spatial awareness and multi-task learning to improve protein-ligand binding affinity prediction. The method addresses limitations of existing graph neural networks by reducing reliance on hand-crafted features and better incorporating spatial information, potentially enhancing generalization in drug discovery applications.",
+      "summary": "This paper introduces GAMT-GINE, a graph isomorphism network that integrates continuous spatial awareness and multi-task learning to improve protein-ligand binding affinity prediction. The method addresses limitations of existing GNNs by reducing reliance on hand-crafted features, preserving spatial information, and handling heterogeneous affinity labels, potentially enhancing generalization in drug discovery.",
       "significance": "Medium",
       "tags": [
         "machine-learning",
@@ -1293,12 +675,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653766/"
         }
       ],
-      "summary": "This study combines triazole scaffold repurposing with a generative transformer architecture to design novel inhibitors of the LasR quorum sensing receptor in Pseudomonas aeruginosa, an anti-virulence strategy against multidrug-resistant infections. The integrated computational pipeline, including deep learning-assisted docking rescoring, identified putative LasR inhibitors, demonstrating the potential of combining scaffold mining with generative AI for structure-based drug design.",
+      "summary": "This study presents a computational pipeline that combines triazole scaffold repurposing with a generative transformer architecture to design novel inhibitors of the LasR quorum sensing receptor in Pseudomonas aeruginosa. The approach integrates structure-based drug design and deep learning-based rescoring to identify putative anti-virulence compounds, offering a new strategy against multidrug-resistant infections.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
         "deep-learning",
-        "machine-learning"
+        "microbiology"
       ]
     },
     {
@@ -1324,102 +706,10 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653763/"
         }
       ],
-      "summary": "This study presents a comparative framework that integrates classical machine learning, deep learning, and graph-based models with ADME-based pharmacokinetic assessment to predict the bioactivity of HIV-related compounds. The authors evaluated twelve predictive models using stratified five-fold cross-validation on the MoleculeNet HIV dataset, highlighting the importance of considering pharmacokinetic properties alongside predictive performance in early-stage drug discovery.",
+      "summary": "This paper presents a comparative framework that integrates classical machine learning, deep learning, and graph-based models with ADME-based pharmacokinetic assessment to predict the bioactivity of HIV-related compounds. The authors evaluated twelve models on the MoleculeNet HIV dataset, emphasizing not only predictive performance but also the drug-likeness and pharmacokinetic properties of prioritized compounds, which is often overlooked in prior studies.",
       "significance": "Medium",
       "tags": [
         "machine-learning",
-        "deep-learning",
-        "drug-discovery"
-      ]
-    },
-    {
-      "id": "18114b1c4bc9",
-      "title": "A Computational Framework for the Design and Development of Isoform Selective PI3Kα Inhibitors as Novel Anticancer Agents.",
-      "abstract": "Phosphatidylinositol 3-kinase (PI3K) is a promising anticancer drug target, and selective PI3Kα inhibition may provide both efficacy and an improved safety profile. This study aimed to design new potentially selective PI3Kα inhibitors using computer-aided drug design (CADD).",
-      "journal": "Molecules (Basel, Switzerland)",
-      "doi": "10.3390/molecules31162782",
-      "pmid": "42653865",
-      "first_author": "Jovanović M",
-      "pub_date": "2026-Aug-10",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fmolecules31162782",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fmolecules31162782"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42653865/"
-        }
-      ],
-      "summary": "This study uses computer-aided drug design to develop new inhibitors that selectively target the PI3Kα isoform, a promising anticancer drug target. The computational framework aims to improve efficacy and safety by achieving isoform selectivity.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "machine-learning",
-        "cancer"
-      ]
-    },
-    {
-      "id": "bfb4a588972c",
-      "title": "Computational Investigation of Cinnamon Phytochemicals Targeting Key Cancer Signaling Pathways: Molecular Docking, ADMET and Molecular Dynamics Simulations Analysis.",
-      "abstract": "Cancer remains one of the leading causes of morbidity and mortality worldwide, highlighting the need for safe and effective therapeutic strategies targeting multiple oncogenic pathways. Cinnamon (Cinnamomum spp.) contains several bioactive phytochemicals with reported antioxidant and anticancer properties; however, their potential interactions with key cancer-associated signaling proteins have not been comprehensively investigated. In this study, an integrated computational and preliminary experimental approach was employed to evaluate four major cinnamon phytochemicals, namely e-cinnamaldehyd",
-      "journal": "Current issues in molecular biology",
-      "doi": "10.3390/cimb48080807",
-      "pmid": "42651805",
-      "first_author": "Raut R",
-      "pub_date": "2026-Aug-10",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fcimb48080807",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fcimb48080807"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42651805/"
-        }
-      ],
-      "summary": "This study computationally evaluates four cinnamon phytochemicals (including e-cinnamaldehyde) for their potential to target key cancer signaling pathways using molecular docking, ADMET prediction, and molecular dynamics simulations. The findings suggest these compounds may interact with multiple oncogenic proteins, providing a basis for further experimental validation in cancer therapy.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "structural-biology",
-        "cancer"
-      ]
-    },
-    {
-      "id": "420a35139bf0",
-      "title": "Design and Synthesis of Novel Morpholine-Derived Nitrogen-Rich Scaffolds as Multifunctional Anticancer and Antibacterial Agents: Biological Evaluation and Computational Studies.",
-      "abstract": "Background/Objectives: The development of multifunctional small molecules capable of simultaneously addressing cancer progression and antimicrobial resistance represents an important challenge in medicinal chemistry. This study aimed to design, synthesize, and biologically evaluate a series of novel morpholine-based nitrogen-rich heterocyclic hybrids as potential anticancer and antibacterial agents, supported by computational investigations. Methods: Twelve morpholine-derived nitrogen-enriched heterocyclic hybrids incorporating pyran, triazine, pyrimidinone, and sulfur-containing scaffolds wer",
-      "journal": "Pharmaceutics",
-      "doi": "10.3390/pharmaceutics18080982",
-      "pmid": "42654099",
-      "first_author": "El-Hema HS",
-      "pub_date": "2026-Aug-09",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fpharmaceutics18080982",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fpharmaceutics18080982"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42654099/"
-        }
-      ],
-      "summary": "This study reports the design and synthesis of twelve novel morpholine-derived nitrogen-rich heterocyclic hybrids with potential anticancer and antibacterial activities, supported by computational studies. The compounds were biologically evaluated, showing promising multifunctional activity against cancer cells and bacteria, highlighting their potential as leads for dual-action therapeutics.",
-      "significance": "Medium",
-      "tags": [
         "drug-discovery",
         "methodology"
       ]
@@ -1447,7 +737,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653127/"
         }
       ],
-      "summary": "This study presents an integrated computational pipeline combining explainable machine learning, virtual screening, molecular dynamics, and binding free-energy calculations to identify novel inhibitors of the drug-resistant EGFR T790M/L858R double mutant. The approach demonstrates a practical workflow for discovering compounds that may overcome resistance in EGFR-driven cancers.",
+      "summary": "This study presents an integrated computational pipeline combining explainable machine learning, virtual screening, molecular dynamics simulations, and binding free-energy calculations to discover novel inhibitors of the drug-resistant EGFR T790M/L858R double mutant. The approach uses an XGBoost regression model with scaffold-aware cross-validation and Bayesian hyperparameter optimization to identify promising compounds, demonstrating a workflow that could be applied to other resistance-driven targets.",
       "significance": "Medium",
       "tags": [
         "machine-learning",
@@ -1478,41 +768,10 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653094/"
         }
       ],
-      "summary": "The authors developed ERβ-Score, an interpretable machine learning-based scoring function and web server to support drug discovery targeting Estrogen Receptor Beta (ERβ) in triple-negative breast cancer (TNBC). The tool aims to identify selective ERβ modulators, leveraging ERβ's tumor-suppressive role in this aggressive cancer subtype.",
+      "summary": "The authors developed ERβ-Score, an interpretable machine learning-based scoring function and web server designed to support estrogen receptor β (ERβ)-guided drug discovery for triple-negative breast cancer (TNBC). By leveraging a curated dataset, the tool aims to identify selective ERβ modulators, addressing an underutilized therapeutic target in this aggressive cancer subtype.",
       "significance": "Medium",
       "tags": [
         "machine-learning",
-        "drug-discovery",
-        "cancer"
-      ]
-    },
-    {
-      "id": "f4ec1c1bcd10",
-      "title": "Integrative Bioinformatics Identification of Baicalein as a Phytochemical Inhibitor of CHEK1 in Serous Ovarian Cancer: A Multi-Stage In Silico Drug Discovery Approach.",
-      "abstract": "Background: Serous ovarian cancer (SOC) is the most aggressive subtype of epithelial ovarian cancer, frequently diagnosed at advanced stages with poor prognosis and chemotherapy resistance. Checkpoint kinase 1 (CHEK1), a key regulator of the DNA damage response, is overexpressed in ovarian cancer, making it a promising therapeutic target. No study has systematically evaluated natural compounds as CHEK1 inhibitors in SOC through an integrative transcriptomic and computational framework. Methods: A meta-analysis of three GEO datasets (GSE27651, GSE36668, GSE54388; n = 83) was performed using Ima",
-      "journal": "Pharmaceuticals (Basel, Switzerland)",
-      "doi": "10.3390/ph19081234",
-      "pmid": "42653731",
-      "first_author": "Jayagopal P",
-      "pub_date": "2026-Aug-05",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fph19081234",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fph19081234"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42653731/"
-        }
-      ],
-      "summary": "This study uses an integrative in silico approach—combining meta-analysis of ovarian cancer transcriptomic datasets with molecular docking and dynamics—to identify baicalein, a natural phytochemical, as a potential inhibitor of CHEK1, a key DNA damage response protein overexpressed in serous ovarian cancer. The findings suggest baicalein may serve as a lead compound for targeted therapy in this aggressive cancer subtype, though experimental validation is needed.",
-      "significance": "Medium",
-      "tags": [
-        "transcriptomics",
         "drug-discovery",
         "cancer"
       ]
@@ -1540,7 +799,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42682911/"
         }
       ],
-      "summary": "This study uses computational methods, including QSAR modeling and molecular docking, to screen natural products for potential aromatase (CYP19A1) inhibitors, aiming to find new drug candidates for ER+ breast cancer that may overcome resistance and side effects of current treatments. The integrated pipeline identifies promising natural compounds that could serve as leads for further development.",
+      "summary": "This study uses a computational pipeline combining QSAR modeling and molecular docking to screen natural products as potential aromatase (CYP19A1) inhibitors, aiming to find novel scaffolds that could overcome resistance and side effects of current breast cancer drugs. The approach identifies promising natural-product candidates for further experimental validation.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
@@ -1571,7 +830,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42668839/"
         }
       ],
-      "summary": "This study used genetic algorithm-driven de novo molecular design to generate 20,000 novel hexahydroquinoline analogs and filter them for potential inhibitors of Plasmodium falciparum CDPK4, a malaria transmission-blocking target. The pipeline prioritized compounds with good predicted binding affinity, pharmacokinetics, and structural stability, offering new candidates for antimalarial drug development.",
+      "summary": "This study used genetic algorithm-driven de novo molecular design to generate 20,000 novel hexahydroquinoline analogs and filter them computationally for potential inhibitors of Plasmodium falciparum CDPK4, a malaria transmission-blocking target. The approach integrates bioactivity prediction and pharmacokinetic filtering to identify promising lead compounds with good binding affinity and structural stability.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
@@ -1602,10 +861,10 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42656645/"
         }
       ],
-      "summary": "MetaCYP is a new multimodal deep learning framework that predicts both the metabolic sites and reaction types of cytochrome P450 enzymes on drug molecules, addressing limitations of existing models that rely on molecular properties or hardcoded rules. It improves generalization across different CYP isoforms, which is important for drug discovery and safety assessment.",
+      "summary": "MetaCYP is a new deep learning framework that predicts both the metabolic sites and reaction types of cytochrome P450 enzymes using multimodal data, improving generalization across different CYP isoforms compared to existing methods that rely on molecular properties or fixed rules.",
       "significance": "Medium",
       "tags": [
-        "deep-learning",
+        "machine-learning",
         "drug-discovery",
         "tool"
       ]
@@ -1633,7 +892,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42630437/"
         }
       ],
-      "summary": "The authors developed an AI-driven virtual screening pipeline to identify the first potent small-molecule modulator of the ClC-3 chloride channel, which is implicated in cervical cancer progression and chemoresistance. This approach addresses the lack of selective ClC-3 inhibitors and demonstrates a computationally efficient strategy for drug discovery under limited hardware resources.",
+      "summary": "This paper presents an AI-driven drug discovery pipeline that identifies a potent small-molecule modulator of the ClC-3 chloride channel, which is implicated in cervical cancer progression and chemoresistance. The approach combines virtual screening with AI to efficiently process large chemical libraries under limited computational resources, yielding a promising lead compound for cervical cancer therapy.",
       "significance": "Medium",
       "tags": [
         "drug-discovery",
@@ -1664,105 +923,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42625565/"
         }
       ],
-      "summary": "This paper presents a neural network-based image analysis pipeline that automatically quantifies intracellular Trypanosoma cruzi infection in mammalian cells using only DNA-binding fluorescent stains, eliminating the need for genetically modified parasites. The approach offers a scalable and reproducible alternative to manual microscopy counting, which could facilitate Chagas disease research and drug discovery.",
+      "summary": "This paper presents a neural network-based image analysis pipeline that automatically quantifies intracellular Trypanosoma cruzi infection in mammalian cells using only DNA-binding fluorescent dye staining, eliminating the need for genetically modified parasites. The approach offers a scalable and reproducible alternative to manual microscopy counting, potentially accelerating Chagas disease research and drug discovery.",
       "significance": "Medium",
       "tags": [
         "machine-learning",
         "microbiology",
-        "tool"
-      ]
-    },
-    {
-      "id": "eaaeaf933cb6",
-      "title": "Repositioning antiviral phytoconstituents as broad-spectrum inhibitors of influenza A neuraminidase and human metapneumovirus fusion protein.",
-      "abstract": "Viral respiratory infections still exist as a major global health concern. Influenza A viruses and human metapneumoviruses are among the main pathogens responsible for infections that can progress to severe acute respiratory forms. Despite the availability of certain therapeutic options, the need for effective treatment remains an issue. The exploration of innovative approaches based on medicinal plants, capable of simultaneously targeting several viruses, represents a promising strategic option for limiting the viral activity of these pathogens. In this work, an integrated computational workf",
-      "journal": "PloS one",
-      "doi": "10.1371/journal.pone.0348517",
-      "pmid": "42685053",
-      "first_author": "Mounadi N",
-      "pub_date": "2026--01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1371%2Fjournal.pone.0348517",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1371%2Fjournal.pone.0348517"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42685053/"
-        }
-      ],
-      "summary": "This study uses computational methods to screen antiviral phytoconstituents as potential broad-spectrum inhibitors against influenza A neuraminidase and human metapneumovirus fusion protein. The findings suggest that certain plant-derived compounds may serve as dual-target candidates for treating respiratory viral infections, though experimental validation is needed.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "methodology",
-        "virology"
-      ]
-    },
-    {
-      "id": "1079bc233157",
-      "title": "Molecular Characterization of DENV-1 Isolates From Pakistan Reveals Immunogenic Variability and Antiviral Potential of Phytochemicals Targeting the CprM Region.",
-      "abstract": "Dengue virus (DENV), a mosquito-borne arbovirus, remains a critical global health concern, causing approximately 390 million infections annually. Dengue fever poses significant challenges to healthcare systems in endemic regions like Pakistan due to the presence of four established serotypes (DENV-1-DENV-4) and the potential emergence of a fifth serotype (DENV-5). The current study aimed to investigate molecular characteristics of DENV-1 isolates from Peshawar, Pakistan, focusing on serotyping, genetic variability in the CprM junction region, and identification of potential antiviral phytochem",
-      "journal": "Journal of tropical medicine",
-      "doi": "10.1155/jotm/9932618",
-      "pmid": "42676601",
-      "first_author": "Shah SA",
-      "pub_date": "2026--01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1155%2Fjotm%2F9932618",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1155%2Fjotm%2F9932618"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42676601/"
-        }
-      ],
-      "summary": "This study characterizes DENV-1 isolates from Peshawar, Pakistan, by analyzing genetic variability in the CprM junction region and evaluating the immunogenic potential of the resulting variants. The authors also identify phytochemicals that may target this region as potential antiviral candidates, offering insights for vaccine and therapeutic development against dengue in endemic regions.",
-      "significance": "Medium",
-      "tags": [
-        "genomics",
-        "immunology",
         "drug-discovery"
-      ]
-    },
-    {
-      "id": "b2296892edf6",
-      "title": "Computational identification and evaluation of Adenium obesum phytochemicals as potential EGFR inhibitors for targeted therapy against non-small-cell lung cancer.",
-      "abstract": "Non-small-cell lung cancer (NSCLC) remains the leading cause of lung cancer-related mortality, largely driven by aberrant activation of the epidermal growth factor receptor (EGFR). Despite the clinical success of EGFR tyrosine kinase inhibitors (TKIs), intrinsic and acquired resistance, coupled with safety concerns, highlight the need for novel, safer inhibitors. Natural products represent an underexplored source of structurally diverse bioactive compounds with favorable biocompatibility. In this study, a comprehensive in silico approach is used to evaluate phytochemicals from Adenium obesum a",
-      "journal": "PloS one",
-      "doi": "10.1371/journal.pone.0357096",
-      "pmid": "42672009",
-      "first_author": "Rahman MN",
-      "pub_date": "2026--01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1371%2Fjournal.pone.0357096",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1371%2Fjournal.pone.0357096"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42672009/"
-        }
-      ],
-      "summary": "This study uses computational methods to screen phytochemicals from Adenium obesum as potential inhibitors of EGFR for treating non-small-cell lung cancer. The authors identify promising natural compounds that may serve as leads for developing safer EGFR-targeted therapies, addressing the need for alternatives to current tyrosine kinase inhibitors.",
-      "significance": "Medium",
-      "tags": [
-        "drug-discovery",
-        "machine-learning",
-        "cancer"
       ]
     }
   ]
