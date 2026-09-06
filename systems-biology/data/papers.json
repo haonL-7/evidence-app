@@ -1,39 +1,8 @@
 {
   "channel": "systems-biology",
-  "generated_at": "2026-09-05T20:48:42.622869",
+  "generated_at": "2026-09-06T20:54:27.870371",
   "count": 28,
   "papers": [
-    {
-      "id": "e9fecdb01f00",
-      "title": "EINN: An enzyme-informed neural network guided by an enzyme-constrained genome-scale metabolic model.",
-      "abstract": "Predicting cellular metabolism from molecular data is a central challenge in systems biology, with direct implications for engineering microbial cell factories. Genome-scale metabolic models (GEMs) provide a mechanistic foundation for such predictions, but their accuracy is limited by an inability to account for the finite catalytic capacity of the proteome. Enzyme-constrained GEMs (ecGEMs) address this by incorporating enzyme turnover numbers and proteome allocation constraints. Hybrid neural-mechanistic models like Artificial Metabolic Network (AMN) and Metabolic-Informed Neural Network (MIN",
-      "journal": "Synthetic and systems biotechnology",
-      "doi": "10.1016/j.synbio.2026.07.009",
-      "pmid": "42602370",
-      "first_author": "Steven R",
-      "pub_date": "2027-Mar-01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1016%2Fj.synbio.2026.07.009",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1016%2Fj.synbio.2026.07.009"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42602370/"
-        }
-      ],
-      "summary": "This paper introduces EINN, a neural network architecture that integrates enzyme-constrained genome-scale metabolic models to predict cellular metabolism more accurately. By incorporating enzyme kinetic and proteome allocation constraints, EINN improves metabolic predictions compared to standard approaches, offering a promising tool for engineering microbial cell factories.",
-      "significance": "Medium",
-      "tags": [
-        "machine-learning",
-        "systems-biology",
-        "tool"
-      ]
-    },
     {
       "id": "68bf61c68a9c",
       "title": "Strategies and applications for alleviating carbon catabolite repression.",
@@ -57,7 +26,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42662560/"
         }
       ],
-      "summary": "This review discusses carbon catabolite repression (CCR), a regulatory mechanism in microbes that prioritizes certain carbon sources, which can hinder industrial bioprocesses by delaying the use of secondary substrates. The authors propose that existing reviews are too microorganism-specific and aim to identify conserved principles and generalizable strategies to alleviate CCR for improved fermentation efficiency.",
+      "summary": "This review discusses carbon catabolite repression (CCR), a regulatory mechanism in microbes that prioritizes certain carbon sources, which can hinder industrial bioprocesses using mixed feedstocks. The authors propose that existing reviews are too microorganism-specific and aim to identify conserved principles and generalizable strategies to alleviate CCR for improved fermentation efficiency.",
       "significance": "Medium",
       "tags": [
         "synthetic-biology",
@@ -88,7 +57,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42692020/"
         }
       ],
-      "summary": "COAST is a new method that aligns consecutive tissue sections imaged with different spatial omics technologies using only the tissue images, without needing shared molecular features or annotations. It achieves alignment accuracy comparable to existing uni-modal tools across various tissues and resolutions, enabling the creation of unified multi-modal molecular datasets for downstream analysis.",
+      "summary": "COAST is a new method for aligning consecutive tissue sections imaged with different spatial omics technologies, using only tissue images rather than shared molecular features. It achieves alignment accuracy comparable to existing tools across various tissues and resolutions, enabling integrated multi-modal spatial datasets for downstream analysis.",
       "significance": "Medium",
       "tags": [
         "spatial-omics",
@@ -114,7 +83,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42680482/"
         }
       ],
-      "summary": "This study uses SHARE-seq to simultaneously profile chromatin accessibility and gene expression during human iPSC-to-cardiomyocyte differentiation, revealing sequential developmental states and the enhancer and transcription factor regulatory dynamics that drive cardiomyocyte maturation. The findings provide a high-resolution multimodal map of cardiac differentiation, highlighting key regulatory networks that could improve differentiation protocols and disease modeling.",
+      "summary": "This study uses SHARE-seq to simultaneously profile gene expression and chromatin accessibility during human iPSC-derived cardiomyocyte differentiation, revealing sequential developmental states and the enhancer and transcription factor regulatory dynamics that drive cardiomyocyte maturation. The findings provide a detailed single-cell multimodal atlas of cardiac differentiation, highlighting key regulatory circuits that may improve the fidelity of iPSC-derived cardiomyocyte models.",
       "significance": "Medium",
       "tags": [
         "single-cell",
@@ -145,11 +114,11 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42678094/"
         }
       ],
-      "summary": "This study uses Boolean logical modeling combined with transcriptomic data to decipher the mechanisms of action of statin-ezetimibe drug combinations, revealing how these drugs work together at a molecular level. The approach provides a framework for understanding the synergistic effects of drug combinations, which could inform more effective therapeutic strategies.",
+      "summary": "This study uses Boolean logical modeling combined with drug-treated transcriptomic data to decipher the mechanisms of action of statin-ezetimibe drug combinations in hepatocyte-like cells and liver biopsies. The approach reveals how combining these drugs modulates molecular pathways differently than either drug alone, providing insights into their enhanced therapeutic efficacy.",
       "significance": "Medium",
       "tags": [
-        "systems-biology",
         "transcriptomics",
+        "systems-biology",
         "drug-discovery"
       ]
     },
@@ -176,12 +145,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42630798/"
         }
       ],
-      "summary": "This study uses integrated bioinformatics analysis of transcriptomic data from human iPSC differentiation into motor neurons to identify 15 hub genes and construct protein-protein interaction networks, revealing complex regulatory networks underlying the differentiation process. The findings provide candidate genes and pathways that may inform disease modeling and regenerative medicine applications.",
+      "summary": "This study performs an integrated bioinformatics analysis of transcriptomic data from human iPSC differentiation into motor neurons, identifying 15 hub genes (e.g., BUB1, TOP2A, AURKB, CCNA2) through protein-protein interaction networks. The findings reveal complex regulatory networks that may underlie motor neuron differentiation, providing potential targets for improving iPSC-based disease modeling and regenerative therapies.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
         "systems-biology",
-        "tool"
+        "neuroscience"
       ]
     },
     {
@@ -207,7 +176,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42163424/"
         }
       ],
-      "summary": "This study identifies a conserved 409-gene transcriptional module shared between human and canine diffuse large B-cell lymphoma, dominated by DNA replication and DNA damage response pathways. The module was used to propose drug repurposing opportunities for canine DLBCL, providing a mechanism-based approach to therapy selection in dogs.",
+      "summary": "This study identifies a conserved 409-gene transcriptional module shared between human and canine diffuse large B-cell lymphoma (DLBCL), enriched for DNA replication, cell-cycle checkpoint, and DNA damage response pathways. By projecting this module onto pathway and protein-protein interaction networks, the authors propose a replication-DNA damage module as a potential target for drug repurposing in canine DLBCL, leveraging cross-species conservation to inform therapeutic strategies.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
@@ -238,7 +207,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/41398403/"
         }
       ],
-      "summary": "This review traces the historical evolution of male fertility assessment and treatment, from ancient cultural beliefs to modern andrological science, highlighting how past observations have shaped current clinical practices. It underscores the persistent burden of male factor infertility, which accounts for up to half of conception difficulties, and calls for integrating historical context into contemporary approaches.",
+      "summary": "This scoping review traces the historical evolution of male fertility assessment and treatment, from ancient cultural and medical frameworks to modern andrological science. It highlights how historical observations have shaped current understanding and practices, underscoring the significant burden of male factor infertility.",
       "significance": "Medium",
       "tags": [
         "review",
@@ -268,11 +237,42 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42628872/"
         }
       ],
-      "summary": "This study investigates how sex and housing temperature influence the metabolic effects of green tea (GT) in a mouse model of diet-induced obesity. The findings show that GT reduces high-fat diet-associated weight gain in both sexes and at different temperatures, but the magnitude of the effect is modulated by these factors. The work highlights the importance of considering biological and environmental variables in preclinical studies of dietary interventions.",
+      "summary": "This study investigates how sex, diet, and housing temperature influence the metabolic effects of green tea (GT) in a mouse model of diet-induced obesity. The authors found that GT attenuated high-fat diet-associated body weight gain in both sexes and at different housing temperatures, but the magnitude of the effect varied depending on these factors. The work highlights the importance of considering biological sex and environmental conditions when evaluating the efficacy of dietary interventions.",
       "significance": "Medium",
       "tags": [
-        "proteomics",
         "metabolomics",
+        "clinical",
+        "systems-biology"
+      ]
+    },
+    {
+      "id": "91afc966c07f",
+      "title": "Beyond genes: EpiSwitch® and Orion platform-powered 3D genome architecture biomarkers reveal shared biology across ME/CFS, long COVID, PTSD, rheumatoid arthritis, and multiple sclerosis.",
+      "abstract": "Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), Long COVID (LC19), post-traumatic stress disorder (PTSD), rheumatoid arthritis (RA), and multiple sclerosis (MS) are clinically distinct disorders that share substantial symptom overlap, including persistent fatigue, cognitive impairment, autonomic dysfunction, and immune dysregulation. Although these conditions differ in diagnosis and clinical presentation, their underlying biological mechanisms remain poorly understood and may involve convergent regulatory pathways.",
+      "journal": "Journal of translational medicine",
+      "doi": "10.1186/s12967-026-08874-9",
+      "pmid": "42693463",
+      "first_author": "Hunter E",
+      "pub_date": "2026-Aug-22",
+      "source": "PubMed",
+      "url": "https://doi.org/10.1186%2Fs12967-026-08874-9",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.1186%2Fs12967-026-08874-9"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42693463/"
+        }
+      ],
+      "summary": "This study uses the EpiSwitch® and Orion platform to analyze 3D genome architecture biomarkers across ME/CFS, long COVID, PTSD, rheumatoid arthritis, and multiple sclerosis, revealing shared biological pathways despite their clinical differences. The findings suggest convergent regulatory mechanisms involving chromatin interactions that may underlie common symptoms like fatigue and immune dysregulation.",
+      "significance": "Medium",
+      "tags": [
+        "epigenomics",
+        "systems-biology",
         "clinical"
       ]
     },
@@ -299,11 +299,11 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42620766/"
         }
       ],
-      "summary": "This study presents a comprehensive multi-omics resource atlas of diet-induced metabolic dysfunction-associated steatohepatitis (MASH) in mice, integrating transcriptomic, proteomic, and metabolomic data across seven metabolic tissues and plasma. The findings reveal coordinated immune, metabolic, and fibrotic alterations across organs, providing a valuable reference for understanding the systemic nature of MASH.",
+      "summary": "This study presents a comprehensive multi-omics resource atlas of diet-induced metabolic dysfunction-associated steatohepatitis (MASH) in mice, integrating transcriptomic, proteomic, and metabolomic data across seven metabolic tissues and plasma. The findings reveal coordinated molecular alterations in immune, metabolic, and fibrotic pathways across multiple organs, providing a systems-level view of MASH as a systemic disease.",
       "significance": "High",
       "tags": [
         "multi-omics",
-        "transcriptomics",
+        "systems-biology",
         "metabolomics"
       ]
     },
@@ -330,7 +330,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42166177/"
         }
       ],
-      "summary": "This post hoc analysis of the phase 3 PaTHway trial shows that 2 years of palopegteriparatide treatment in adults with chronic hypoparathyroidism is associated with sustained improvement in renal function, as measured by estimated glomerular filtration rate (eGFR). The findings support the potential of palopegteriparatide to preserve or improve kidney health in this patient population.",
+      "summary": "This post hoc analysis of the phase 3 PaTHway trial shows that 2 years of treatment with palopegteriparatide in adults with chronic hypoparathyroidism leads to sustained improvements in renal function, as measured by estimated glomerular filtration rate (eGFR). These findings suggest that palopegteriparatide may help preserve kidney health in this patient population.",
       "significance": "Medium",
       "tags": [
         "clinical",
@@ -360,7 +360,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42611537/"
         }
       ],
-      "summary": "This study investigates the developmental mechanisms underlying the partial re-evolution of a polyphenic trait in ant worker castes, revealing that latent gene network expression enables the re-emergence of an ancestral phenotype. The findings provide insights into how polyphenisms can promote phenotypic diversification through the gain, loss, and re-evolution of alternative phenotypes.",
+      "summary": "This study investigates how a polyphenic trait in ants, specifically the worker caste's ability to produce soldiers, can partially re-evolve after loss. The authors find that latent gene network expression, rather than new gene recruitment, underlies this re-evolution, suggesting that ancestral developmental capacity is retained in the genome. This provides insight into the mechanisms of phenotypic re-evolution and polyphenism.",
       "significance": "Medium",
       "tags": [
         "evolution",
@@ -391,7 +391,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42584997/"
         }
       ],
-      "summary": "This paper introduces Canon, a causal inference framework for single-cell CRISPR screens that uses guide RNA perturbation status as instrumental variables to identify downstream genes causally affected by target gene perturbations. Unlike traditional association-based methods, Canon reduces false positives and improves statistical power by establishing causal rather than merely correlational gene relationships.",
+      "summary": "This paper introduces Canon, a causal inference framework for single-cell CRISPR screens that uses gRNA perturbation status as instrumental variables to identify downstream genes causally affected by target gene perturbations, overcoming limitations of association-based methods. The approach reduces false positives and improves statistical power for causal gene relationship inference.",
       "significance": "High",
       "tags": [
         "single-cell",
@@ -422,7 +422,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42607674/"
         }
       ],
-      "summary": "This paper presents scRICH, a computational framework that uses single-cell and spatial transcriptomics data to identify heterogeneity in cell-cell communication across biological scales. It aims to reveal how communication pathways influence cell fate decisions, addressing a key challenge in the field.",
+      "summary": "This paper presents scRICH, a computational framework that uses single-cell and spatial transcriptomics data to identify heterogeneity in cell-cell communication across biological scales. The method aims to reveal how communication pathways influence cell fate decisions, addressing a key challenge in studying intercellular signaling.",
       "significance": "Medium",
       "tags": [
         "single-cell",
@@ -453,7 +453,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653338/"
         }
       ],
-      "summary": "This review discusses how mitochondrial dysfunction contributes to obesity and type 2 diabetes, highlighting coordinated changes in multiple mitochondrial pathways across tissues. It proposes a 'precision mitochondrial medicine' approach that uses mitochondrial-centered biological networks to better understand and treat metabolic diseases.",
+      "summary": "This review discusses how mitochondrial dysfunction contributes to obesity and type 2 diabetes, highlighting coordinated changes in metabolic pathways across tissues. It proposes a 'precision mitochondrial medicine' approach that uses mitochondrial-centered biological networks to better understand and treat these complex diseases.",
       "significance": "Medium",
       "tags": [
         "systems-biology",
@@ -484,12 +484,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42302787/"
         }
       ],
-      "summary": "IAN is an R package that integrates gene expression data analysis with AI, using multi-agent LLM architecture to summarize and interpret enrichment results from multiple pathway and regulatory databases. It provides context-aware, grounded interpretations to aid biological discovery.",
+      "summary": "IAN is an R package that integrates gene expression data analysis with AI, using multi-agent LLMs to summarize and interpret enrichment results from pathway and regulatory databases. It provides context-aware, grounded interpretations to aid biological discovery.",
       "significance": "Medium",
       "tags": [
         "tool",
-        "machine-learning",
-        "transcriptomics"
+        "transcriptomics",
+        "LLM"
       ]
     },
     {
@@ -515,12 +515,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653305/"
         }
       ],
-      "summary": "This paper introduces IAGRN, a graph neural network with an interleaved-attention mechanism designed to infer gene regulatory networks from single-cell RNA sequencing data. The method addresses challenges of data sparsity and noise by improving long-range dependency capture and reducing over-smoothing compared to existing GNN approaches.",
+      "summary": "This paper introduces IAGRN, a graph neural network with an interleaved-attention mechanism for inferring gene regulatory networks from single-cell RNA sequencing data. The method addresses challenges of data sparsity and noise by improving long-range dependency capture and mitigating over-smoothing, potentially leading to more accurate regulatory relationship recovery.",
       "significance": "Medium",
       "tags": [
         "single-cell",
         "machine-learning",
-        "network-analysis"
+        "gene-regulatory-network"
       ]
     },
     {
@@ -546,7 +546,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653279/"
         }
       ],
-      "summary": "This study integrates 30 public multi-omics datasets—including bulk transcriptomics, DNA methylation, single-cell RNA-seq, and proteomics—to map cell-type-specific regulatory changes in multiple sclerosis (MS). The authors identify discordant methylation-expression coupling across cell types and highlight specific regulatory landscapes that may underlie MS risk loci, providing a more integrated view of disease mechanisms.",
+      "summary": "This study integrates 30 public multi-omics datasets—including transcriptomics, DNA methylation, single-cell RNA-seq, and proteomics—to map cell-type-specific regulatory changes in multiple sclerosis (MS). The authors identify discordant methylation-expression coupling across cell types and highlight specific regulatory landscapes that may underlie MS risk loci, providing a more integrated view of disease mechanisms.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
@@ -577,7 +577,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653779/"
         }
       ],
-      "summary": "This study uses network pharmacology, network toxicology, and molecular docking to explore how cinnamaldehyde (CA) may counteract the effects of ochratoxin A (OTA), a food contaminant linked to type 2 diabetes mellitus (T2DM) and non-alcoholic fatty liver disease (NAFLD). The findings suggest that CA may modulate key molecular targets and pathways involved in these comorbid conditions, providing a theoretical basis for its therapeutic potential.",
+      "summary": "This study uses network pharmacology, network toxicology, and molecular docking to explore how cinnamaldehyde may counteract the effects of ochratoxin A, a food contaminant linked to type 2 diabetes and non-alcoholic fatty liver disease. It identifies potential molecular targets and pathways through which cinnamaldehyde could exert protective effects against OTA-induced comorbidity.",
       "significance": "Medium",
       "tags": [
         "network-analysis",
@@ -608,7 +608,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42652205/"
         }
       ],
-      "summary": "This review proposes a new conceptual framework for Alzheimer's disease (AD) as a multi-layer network disorder, integrating multi-omics data to explain its complex features like prolonged compensated states and heterogeneous trajectories. It suggests that AD progression arises from hierarchical constraint propagation and loss of cross-scale coordination, offering a testable model to unify diverse mechanistic evidence.",
+      "summary": "This review proposes a systems biology framework that conceptualizes Alzheimer's disease as a progressive multi-layer network disorder, integrating multi-omics data to explain its heterogeneous trajectories and stage-dependent responses. It emphasizes hierarchical constraint propagation and loss of cross-scale coordination as key dynamics, offering a testable model for unifying diverse mechanistic evidence.",
       "significance": "Medium",
       "tags": [
         "systems-biology",
@@ -639,11 +639,11 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42595107/"
         }
       ],
-      "summary": "This review examines the role of TREM2 signaling in cardiovascular disease, highlighting how macrophage heterogeneity and dynamic plasticity beyond the traditional M1/M2 paradigm contribute to disease pathogenesis. It positions TREM2 as a key molecular hub in immune-metabolic crosstalk and discusses the therapeutic potential of targeting TREM2 in cardiovascular contexts.",
+      "summary": "This review highlights the emerging role of TREM2 signaling in cardiovascular disease, emphasizing how macrophage heterogeneity and dynamic plasticity—beyond the traditional M1/M2 paradigm—contribute to disease progression. It discusses TREM2 as a key molecular hub in immune-metabolic crosstalk and explores its potential as a therapeutic target, with attention to timing and context-dependent effects.",
       "significance": "Medium",
       "tags": [
-        "review",
         "immunology",
+        "review",
         "cardiovascular"
       ]
     },
@@ -670,7 +670,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42594868/"
         }
       ],
-      "summary": "This paper presents a computational framework that integrates machine learning with genome-scale metabolic models to predict how the microbiome, particularly Fusobacterium nucleatum, modulates tumor metabolism and drug responses in colorectal cancer. The model, trained on thousands of drug combination profiles, identifies synergistic therapies that account for microbial influences, offering a new approach to microbiome-aware cancer treatment design.",
+      "summary": "This paper presents a computational framework that integrates machine learning with genome-scale metabolic models to predict how the microbiome, particularly Fusobacterium nucleatum, modulates tumor metabolism and drug responses in colorectal cancer. The model was trained on thousands of drug combination profiles and successfully predicted synergistic therapies, offering a new approach for designing microbiome-aware cancer treatments.",
       "significance": "High",
       "tags": [
         "microbiome",
@@ -701,7 +701,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42594686/"
         }
       ],
-      "summary": "This study integrates multiple approaches, including single-nucleus transcriptomics and machine learning, to investigate the neurotoxic effects of the PFAS replacement chemical GenX and its potential link to Alzheimer's disease. The findings point to MAPK-centered neuronal responses as a key mechanism, suggesting that GenX exposure may contribute to AD risk through this pathway.",
+      "summary": "This study integrates machine learning, single-nucleus transcriptomics, and multiple experimental approaches to investigate the neurotoxic effects of GenX (HFPO-DA), a PFAS replacement chemical. The findings reveal MAPK-centered neuronal responses that may contribute to Alzheimer's disease risk, providing new insights into the potential neurotoxicity of this emerging contaminant.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
@@ -732,7 +732,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42497852/"
         }
       ],
-      "summary": "This study uses single-cell transcriptomics and live-cell imaging to map pattern-triggered immune responses across cell types and developmental zones in Arabidopsis roots. It finds that plant-derived phytocytokines induce stronger immune responses than microbe-derived patterns, with receptor expression and signaling modules shaping cell-type-specific response intensities. The work provides insights into how roots balance growth and defense.",
+      "summary": "This study uses single-cell transcriptomics and live-cell imaging to map pattern-triggered immune responses across cell types and developmental zones in Arabidopsis roots. It finds that plant-derived phytocytokines trigger stronger immune responses than microbe-derived patterns, with receptor expression and signaling modules varying by cell type and zone, and that phytocytokines help balance growth and defense trade-offs.",
       "significance": "High",
       "tags": [
         "single-cell",
@@ -763,7 +763,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42584560/"
         }
       ],
-      "summary": "This paper introduces scDECIPHER, a computational framework that uses logical modeling of single-cell transcriptome data to decipher the regulatory mechanisms underlying cell state transitions, particularly focusing on why these transitions are often irreversible in nature but can be reversed under certain conditions. The framework aims to uncover the asymmetric regulatory logic governing forward and backward transitions.",
+      "summary": "The paper introduces scDECIPHER, a computational framework that uses single-cell transcriptomics data to model and decipher the regulatory mechanisms underlying cell state transitions, particularly focusing on the asymmetry between forward and backward transitions. It aims to reveal the logical rules governing these transitions, addressing a key question in cell fate decision processes.",
       "significance": "Medium",
       "tags": [
         "single-cell",
@@ -794,7 +794,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42579744/"
         }
       ],
-      "summary": "CRITERIA is a new computational tool that efficiently computes equilibria of biochemical reaction networks by decomposing the network and translating elementary flux modes, overcoming limitations of the previous COMPILES framework such as computational intensity and restriction to zero kinetic deficiency. This enables analysis of larger and more complex systems, aiding understanding of cellular decision-making and robustness.",
+      "summary": "CRITERIA is a new computational tool that efficiently computes equilibria of biochemical reaction networks by decomposing the network and translating elementary flux modes, overcoming limitations of the previous COMPILES framework such as computational intensity and restriction to zero kinetic deficiency networks. This enables analysis of larger and more complex systems, aiding understanding of cellular decision-making and robustness.",
       "significance": "Medium",
       "tags": [
         "systems-biology",
@@ -803,65 +803,55 @@
       ]
     },
     {
-      "id": "3220c3ff83d6",
-      "title": "Assessment of gut microbiota dynamics and probiotic impact on HPV-associated head and neck cancer using 16S rRNA sequencing and cytokine profiling.",
-      "abstract": "Human papillomavirus (HPV) is a major etiological factor in head and neck cancers, primarily through the oncogenic activities of viral proteins E6 and E7, which disrupt the p53 and retinoblastoma (Rb) tumor suppressor pathways. This disruption promotes uncontrolled cell proliferation, immune dysregulation, chronic inflammation, and malignant transformation. Although probiotics have emerged as promising modulators of the microbiome and host immune responses, their mechanistic role in HPV-associated head and neck cancer remains insufficiently understood. Therefore, this study investigated the th",
-      "journal": "Frontiers in cellular and infection microbiology",
-      "doi": "10.3389/fcimb.2026.1779580",
-      "pmid": "42626072",
-      "first_author": "Jiang X",
-      "pub_date": "2026--01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3389%2Ffcimb.2026.1779580",
+      "id": "6e9aeb482edd",
+      "title": "Distinct stage-specific transcriptional states of B cells in human tonsillar tissue",
+      "abstract": "B cells within secondary lymphoid tissues encompass a diverse range of activation states and multiple maturation processes that reflect antigen recognition and transition through the germinal center (GC) reaction, in which mature B cells differentiate into memory and antibody-secreting cells (ASCs). Here, using single-cell RNA-seq, we identify distinct activation and maturation profiles of B cells within and outside the GC reaction in human secondary lymphoid tissue. In particular, we identify a distinct, previously uncharacterized CCL4/CCL3 chemokine-expressing B-cell population with an expre",
+      "journal": "bioRxiv",
+      "doi": "10.1101/2021.08.17.456535",
+      "pmid": "",
+      "first_author": "",
+      "pub_date": "2021",
+      "source": "Semantic Scholar",
+      "url": "https://doi.org/10.1101%2F2021.08.17.456535",
       "links": [
         {
           "type": "doi",
           "label": "DOI",
-          "url": "https://doi.org/10.3389%2Ffcimb.2026.1779580"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42626072/"
+          "url": "https://doi.org/10.1101%2F2021.08.17.456535"
         }
       ],
-      "summary": "This study examines how gut microbiota composition and probiotic supplementation influence immune responses in HPV-associated head and neck cancer, using 16S rRNA sequencing and cytokine profiling. The findings suggest that probiotics may modulate gut microbial dynamics and systemic inflammation, offering a potential adjunctive strategy for managing this cancer type.",
+      "summary": "This study uses single-cell RNA-seq to map the transcriptional states of B cells in human tonsillar tissue, revealing distinct activation and maturation profiles within and outside the germinal center reaction. The authors identify a previously uncharacterized B-cell population expressing CCL4/CCL3 chemokines, providing new insights into B-cell heterogeneity in secondary lymphoid tissues.",
       "significance": "Medium",
       "tags": [
-        "microbiome",
-        "cancer",
+        "single-cell",
+        "transcriptomics",
         "immunology"
       ]
     },
     {
-      "id": "5d3b7e5b6e81",
-      "title": "Uncovering the molecular landscape of young-onset diffuse gastric cancer: A relieff-based feature selection analysis on RNA-Seq data.",
-      "abstract": "Diffuse Gastric Cancer (DGC) is an aggressive subtype with a poor prognosis and a lack of specific biomarkers, representing a critical unmet need in oncology. This study aimed to elucidate the key molecular drivers of DGC by integrating RNA-seq data with a multi-faceted bioinformatics approach.",
-      "journal": "PloS one",
-      "doi": "10.1371/journal.pone.0354961",
-      "pmid": "42561036",
-      "first_author": "Azni ZK",
-      "pub_date": "2026--01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1371%2Fjournal.pone.0354961",
+      "id": "8825e54c2732",
+      "title": "Unbiased reconstruction of a mammalian transcriptional network mediating the differential response to pathogens",
+      "abstract": "Peeking at Pathogen Response Networks Networks controlling gene expression serve as key decision-making circuits in cells, but the regulatory networks that control dynamic and specific gene expression responses to stimuli are often not well understood. This is particularly true for immune dendritic cells (DCs), which respond to pathogens by mounting elaborate transcriptional responses, and are centrally involved in infectious diseases, autoimmunity, and vaccines. Amit et al. (p. 257, published online 3 September) explored the transcriptional response of dendritic cells to specific classes of p",
+      "journal": "Science (New York, N.Y.)",
+      "doi": "10.1126/science.1179050",
+      "pmid": "",
+      "first_author": "",
+      "pub_date": "2009",
+      "source": "Semantic Scholar",
+      "url": "https://doi.org/10.1126%2Fscience.1179050",
       "links": [
         {
           "type": "doi",
           "label": "DOI",
-          "url": "https://doi.org/10.1371%2Fjournal.pone.0354961"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42561036/"
+          "url": "https://doi.org/10.1126%2Fscience.1179050"
         }
       ],
-      "summary": "This study uses RNA-seq data and a ReliefF-based feature selection method to identify key molecular drivers of young-onset diffuse gastric cancer, a subtype with poor prognosis and few biomarkers. The analysis reveals potential gene signatures and pathways that may serve as biomarkers or therapeutic targets for this aggressive cancer.",
-      "significance": "Medium",
+      "summary": "This paper presents an unbiased approach to reconstructing the transcriptional regulatory network that governs how mammalian dendritic cells respond differentially to various pathogens. By integrating genomic and transcriptomic data, the authors identify key transcription factors and cis-regulatory elements that drive pathogen-specific gene expression programs, providing a comprehensive view of the dynamic immune response network.",
+      "significance": "High",
       "tags": [
         "transcriptomics",
-        "cancer",
-        "machine-learning"
+        "systems-biology",
+        "immunology"
       ]
     }
   ]
