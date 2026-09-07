@@ -1,7 +1,7 @@
 {
   "channel": "systems-biology",
-  "generated_at": "2026-09-06T20:54:27.870371",
-  "count": 28,
+  "generated_at": "2026-09-07T21:53:18.666792",
+  "count": 34,
   "papers": [
     {
       "id": "68bf61c68a9c",
@@ -26,12 +26,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42662560/"
         }
       ],
-      "summary": "This review discusses carbon catabolite repression (CCR), a regulatory mechanism in microbes that prioritizes certain carbon sources, which can hinder industrial bioprocesses using mixed feedstocks. The authors propose that existing reviews are too microorganism-specific and aim to identify conserved principles and generalizable strategies to alleviate CCR for improved fermentation efficiency.",
+      "summary": "This review discusses carbon catabolite repression (CCR), a regulatory mechanism that makes microbes preferentially use certain carbon sources, which can hinder industrial fermentation when mixed feedstocks are used. The authors propose that existing CCR reviews are too species-specific and suggest that a more general, cross-species understanding could lead to better strategies for alleviating CCR and improving bioprocess efficiency.",
       "significance": "Medium",
       "tags": [
-        "synthetic-biology",
-        "microbiology",
-        "review"
+        "review",
+        "systems-biology",
+        "synthetic-biology"
       ]
     },
     {
@@ -57,7 +57,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42692020/"
         }
       ],
-      "summary": "COAST is a new method for aligning consecutive tissue sections imaged with different spatial omics technologies, using only tissue images rather than shared molecular features. It achieves alignment accuracy comparable to existing tools across various tissues and resolutions, enabling integrated multi-modal spatial datasets for downstream analysis.",
+      "summary": "COAST is a new method that aligns consecutive tissue sections imaged with different spatial omics technologies using only their associated tissue images, without needing shared molecular features or annotations. It achieves performance comparable to existing uni-modal alignment tools across various technologies, tissues, and resolutions, enabling the creation of unified multi-modal molecular datasets.",
       "significance": "Medium",
       "tags": [
         "spatial-omics",
@@ -83,7 +83,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42680482/"
         }
       ],
-      "summary": "This study uses SHARE-seq to simultaneously profile gene expression and chromatin accessibility during human iPSC-derived cardiomyocyte differentiation, revealing sequential developmental states and the enhancer and transcription factor regulatory dynamics that drive cardiomyocyte maturation. The findings provide a detailed single-cell multimodal atlas of cardiac differentiation, highlighting key regulatory circuits that may improve the fidelity of iPSC-derived cardiomyocyte models.",
+      "summary": "This study uses SHARE-seq to simultaneously profile gene expression and chromatin accessibility during human iPSC-derived cardiomyocyte differentiation, revealing sequential developmental states and the regulatory dynamics of enhancers and transcription factors. The multimodal analysis provides insights into the gene regulatory mechanisms underlying cardiac differentiation.",
       "significance": "Medium",
       "tags": [
         "single-cell",
@@ -114,7 +114,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42678094/"
         }
       ],
-      "summary": "This study uses Boolean logical modeling combined with drug-treated transcriptomic data to decipher the mechanisms of action of statin-ezetimibe drug combinations in hepatocyte-like cells and liver biopsies. The approach reveals how combining these drugs modulates molecular pathways differently than either drug alone, providing insights into their enhanced therapeutic efficacy.",
+      "summary": "This study uses Boolean logical modeling combined with transcriptomic data to decipher the mechanisms of action of statin-ezetimibe drug combinations in hepatocyte-like cells and liver biopsies. The approach reveals how the combination modulates molecular pathways differently than single agents, providing insights into its therapeutic efficacy.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
@@ -145,12 +145,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42630798/"
         }
       ],
-      "summary": "This study performs an integrated bioinformatics analysis of transcriptomic data from human iPSC differentiation into motor neurons, identifying 15 hub genes (e.g., BUB1, TOP2A, AURKB, CCNA2) through protein-protein interaction networks. The findings reveal complex regulatory networks that may underlie motor neuron differentiation, providing potential targets for improving iPSC-based disease modeling and regenerative therapies.",
+      "summary": "This study uses integrated bioinformatics analysis of transcriptomic data from human iPSC differentiation into motor neurons to identify 15 hub genes and construct protein-protein interaction networks. The findings reveal complex regulatory networks that may underlie motor neuron generation, offering potential targets for improving differentiation protocols in disease modeling and regenerative medicine.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
         "systems-biology",
-        "neuroscience"
+        "network-analysis"
       ]
     },
     {
@@ -176,7 +176,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42163424/"
         }
       ],
-      "summary": "This study identifies a conserved 409-gene transcriptional module shared between human and canine diffuse large B-cell lymphoma (DLBCL), enriched for DNA replication, cell-cycle checkpoint, and DNA damage response pathways. By projecting this module onto pathway and protein-protein interaction networks, the authors propose a replication-DNA damage module as a potential target for drug repurposing in canine DLBCL, leveraging cross-species conservation to inform therapeutic strategies.",
+      "summary": "This study identifies a conserved 409-gene transcriptional module shared between human and canine diffuse large B-cell lymphoma (DLBCL), enriched for DNA replication, cell-cycle checkpoint, and DNA damage response pathways. By projecting this module onto pathway and protein-protein interaction networks, the authors propose a mechanism-based rationale for repurposing drugs that target this conserved replication-DNA damage module in canine DLBCL.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
@@ -207,11 +207,42 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/41398403/"
         }
       ],
-      "summary": "This scoping review traces the historical evolution of male fertility assessment and treatment, from ancient cultural and medical frameworks to modern andrological science. It highlights how historical observations have shaped current understanding and practices, underscoring the significant burden of male factor infertility.",
+      "summary": "This scoping review traces the historical evolution of male fertility assessment and treatment, from ancient cultural and medical frameworks to modern andrological science. It highlights how historical observations have shaped current understanding and practices, while noting the persistent burden of male factor infertility in up to 50% of couples.",
       "significance": "Medium",
       "tags": [
         "review",
         "clinical"
+      ]
+    },
+    {
+      "id": "8a94a1bd09c8",
+      "title": "Metabolic division of labour drives estuarine-coastal N2O emissions.",
+      "abstract": "Estuarine and coastal systems are global hotspots of marine nitrous oxide (N2O) emissions, where microbial nitrification and denitrification are the primary processes regulating N2O dynamics. However, how interactions among different N2O-associated microorganisms influence ecosystem-scale N2O emissions remains poorly understood. This study combined in situ N2O concentrations, 15N-based potential rates, metagenomics, metatranscriptomics, and genome-scale metabolic model analysis to explore N2O production and reduction processes in estuarine and coastal systems. Potential N2O production and redu",
+      "journal": "The ISME journal",
+      "doi": "10.1093/ismejo/wrag216",
+      "pmid": "42644746",
+      "first_author": "Zhang E",
+      "pub_date": "2026-Aug-26",
+      "source": "PubMed",
+      "url": "https://doi.org/10.1093%2Fismejo%2Fwrag216",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.1093%2Fismejo%2Fwrag216"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42644746/"
+        }
+      ],
+      "summary": "This study reveals that metabolic division of labor among different N2O-producing and -consuming microorganisms drives nitrous oxide emissions in estuarine and coastal systems. By integrating field measurements, isotope-based rate assays, multi-omics, and genome-scale metabolic modeling, the authors show that microbial community interactions, rather than individual taxa alone, regulate ecosystem-scale N2O fluxes.",
+      "significance": "Medium",
+      "tags": [
+        "microbiome",
+        "metagenomics",
+        "metabolomics"
       ]
     },
     {
@@ -237,7 +268,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42628872/"
         }
       ],
-      "summary": "This study investigates how sex, diet, and housing temperature influence the metabolic effects of green tea (GT) in a mouse model of diet-induced obesity. The authors found that GT attenuated high-fat diet-associated body weight gain in both sexes and at different housing temperatures, but the magnitude of the effect varied depending on these factors. The work highlights the importance of considering biological sex and environmental conditions when evaluating the efficacy of dietary interventions.",
+      "summary": "This study investigates how green tea (GT) affects body weight gain in mice, focusing on the roles of sex, diet, and housing temperature. The authors find that GT attenuates high-fat diet-induced weight gain in both sexes and at different temperatures, but the magnitude of the effect is modulated by these factors. The work highlights the importance of considering biological sex and environmental conditions when evaluating metabolic interventions.",
       "significance": "Medium",
       "tags": [
         "metabolomics",
@@ -268,12 +299,43 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42693463/"
         }
       ],
-      "summary": "This study uses the EpiSwitch® and Orion platform to analyze 3D genome architecture biomarkers across ME/CFS, long COVID, PTSD, rheumatoid arthritis, and multiple sclerosis, revealing shared biological pathways despite their clinical differences. The findings suggest convergent regulatory mechanisms involving chromatin interactions that may underlie common symptoms like fatigue and immune dysregulation.",
+      "summary": "This study uses the EpiSwitch® and Orion platforms to analyze 3D genome architecture biomarkers across ME/CFS, long COVID, PTSD, rheumatoid arthritis, and multiple sclerosis, revealing shared biological pathways that may underlie overlapping symptoms. The findings suggest convergent regulatory mechanisms among these clinically distinct disorders, potentially informing shared diagnostic or therapeutic approaches.",
       "significance": "Medium",
       "tags": [
         "epigenomics",
         "systems-biology",
         "clinical"
+      ]
+    },
+    {
+      "id": "23ee60f1ae91",
+      "title": "Causal AI digital twin for bioprocess bottleneck diagnosis via metabolic flexibility and rigidification maps.",
+      "abstract": "Diagnosing underperforming non-model microbial cultures remains difficult. To address this, we developed an intervention-aware genome-informed digital twin with interpretable flexibility features, explainable learning, and causal-structure discovery to convert sparse anchors into actionable diagnostic artifacts. We grew Stenotrophomonas maltophilia SO-1 aerobically on acetate minimal medium as a controlled testbed and anchored the twin with standardized harvest-time growth phenotypes (OD600 at 32 h). We then generated an intervention-labeled design space via Latin hypercube sampling (LHS), lab",
+      "journal": "iScience",
+      "doi": "10.1016/j.isci.2026.116820",
+      "pmid": "42502377",
+      "first_author": "Kim C",
+      "pub_date": "2026-Aug-21",
+      "source": "PubMed",
+      "url": "https://doi.org/10.1016%2Fj.isci.2026.116820",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.1016%2Fj.isci.2026.116820"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42502377/"
+        }
+      ],
+      "summary": "The authors developed a causal AI digital twin that integrates genome-informed metabolic flexibility and rigidification maps to diagnose bottlenecks in underperforming non-model microbial cultures. Using Stenotrophomonas maltophilia grown on acetate as a testbed, the twin converts sparse experimental data into actionable diagnostic insights via explainable learning and causal-structure discovery.",
+      "significance": "Medium",
+      "tags": [
+        "machine-learning",
+        "systems-biology",
+        "microbiology"
       ]
     },
     {
@@ -299,7 +361,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42620766/"
         }
       ],
-      "summary": "This study presents a comprehensive multi-omics resource atlas of diet-induced metabolic dysfunction-associated steatohepatitis (MASH) in mice, integrating transcriptomic, proteomic, and metabolomic data across seven metabolic tissues and plasma. The findings reveal coordinated molecular alterations in immune, metabolic, and fibrotic pathways across multiple organs, providing a systems-level view of MASH as a systemic disease.",
+      "summary": "This study presents a comprehensive multi-omics resource atlas of diet-induced metabolic dysfunction-associated steatohepatitis (MASH) in mice, profiling transcriptomics, proteomics, and metabolomics across seven metabolic tissues and plasma. The integrated analyses reveal coordinated molecular alterations in immune, metabolic, and fibrotic programs across tissues, providing a systems-level view of MASH as a systemic disease.",
       "significance": "High",
       "tags": [
         "multi-omics",
@@ -330,11 +392,42 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42166177/"
         }
       ],
-      "summary": "This post hoc analysis of the phase 3 PaTHway trial shows that 2 years of treatment with palopegteriparatide in adults with chronic hypoparathyroidism leads to sustained improvements in renal function, as measured by estimated glomerular filtration rate (eGFR). These findings suggest that palopegteriparatide may help preserve kidney health in this patient population.",
+      "summary": "This post hoc analysis of the phase 3 PaTHway trial shows that daily treatment with palopegteriparatide in adults with chronic hypoparathyroidism leads to sustained improvements in renal function, as measured by estimated glomerular filtration rate (eGFR), over 2 years (104 weeks). These findings suggest that palopegteriparatide may help preserve or improve kidney function in this patient population.",
       "significance": "Medium",
       "tags": [
         "clinical",
         "drug-discovery"
+      ]
+    },
+    {
+      "id": "d5e8ac854bab",
+      "title": "A Proposed Cross-Feeding Model of Phenanthrene Degradation by Constructed Halophilic Consortium NOMA.",
+      "abstract": "The accumulation of polycyclic aromatic hydrocarbons (PAHs) in saline environments poses a threat to ecological security; however, the elimination of PAHs from saline environments is difficult. In this study, a constructed microbial consortium, designated NOMA, was constructed from Novosphingobium sp. J3 and Martelella sp. E4 via a \"bottom-up\" method. Consortium NOMA degraded phenanthrene within 7 days at 5% salinity and retained phenanthrene-degradation activity across the tested salinity, pH, and Cd2+ gradients (pH values of 5-10, salinities of 1-20%, and Cd2+ concentrations of 0-50 mg/L). P",
+      "journal": "Microorganisms",
+      "doi": "10.3390/microorganisms14081833",
+      "pmid": "42655179",
+      "first_author": "Lu H",
+      "pub_date": "2026-Aug-19",
+      "source": "PubMed",
+      "url": "https://doi.org/10.3390%2Fmicroorganisms14081833",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.3390%2Fmicroorganisms14081833"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42655179/"
+        }
+      ],
+      "summary": "The study constructs a halophilic microbial consortium (NOMA) from two bacterial strains that efficiently degrades phenanthrene under high salinity and various stress conditions, and proposes a cross-feeding model to explain their synergistic degradation mechanism.",
+      "significance": "Medium",
+      "tags": [
+        "microbiome",
+        "metagenomics",
+        "methodology"
       ]
     },
     {
@@ -360,7 +453,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42611537/"
         }
       ],
-      "summary": "This study investigates how a polyphenic trait in ants, specifically the worker caste's ability to produce soldiers, can partially re-evolve after loss. The authors find that latent gene network expression, rather than new gene recruitment, underlies this re-evolution, suggesting that ancestral developmental capacity is retained in the genome. This provides insight into the mechanisms of phenotypic re-evolution and polyphenism.",
+      "summary": "This study investigates the developmental mechanisms underlying the partial re-evolution of a polyphenic trait in ant worker castes, revealing that latent gene network expression plays a key role. The findings provide insights into how polyphenisms can facilitate phenotypic diversification through the gain, loss, and re-evolution of alternative phenotypes.",
       "significance": "Medium",
       "tags": [
         "evolution",
@@ -391,12 +484,74 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42584997/"
         }
       ],
-      "summary": "This paper introduces Canon, a causal inference framework for single-cell CRISPR screens that uses gRNA perturbation status as instrumental variables to identify downstream genes causally affected by target gene perturbations, overcoming limitations of association-based methods. The approach reduces false positives and improves statistical power for causal gene relationship inference.",
+      "summary": "This paper introduces Canon, a new computational framework for single-cell CRISPR screens that uses the perturbation status of guide RNAs as instrumental variables to infer causal relationships between genes, moving beyond traditional association-based analyses. Canon aims to reduce false positives and improve statistical power when identifying downstream genes affected by target gene perturbations.",
       "significance": "High",
       "tags": [
         "single-cell",
         "CRISPR",
         "methodology"
+      ]
+    },
+    {
+      "id": "f8ed8a85abbc",
+      "title": "A fungal exudate-inspired substrate mixture elicits an emergent growth phenotype and metabolic responses in Pseudomonas putida.",
+      "abstract": "Microbes in natural environments often encounter diverse mixtures of organic compounds, yet how mixed substrate environments and their molecular composition shape microbial phenotypes remains understudied. Here, we examined how a defined fungal exudate mimic (FEM) mixture influences growth and metabolism in Pseudomonas putida KT2440 compared to individual substrates matched for total carbon and nitrogen. Growth on FEM initiated 2 h earlier than growth on glucose alone and exhibited both the lowest lag and shortest time to maximum biomass compared to individual substrates. Fructose was the only",
+      "journal": "mSystems",
+      "doi": "10.1128/msystems.00760-26",
+      "pmid": "42496125",
+      "first_author": "Sadler N",
+      "pub_date": "2026-Aug-18",
+      "source": "PubMed",
+      "url": "https://doi.org/10.1128%2Fmsystems.00760-26",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.1128%2Fmsystems.00760-26"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42496125/"
+        }
+      ],
+      "summary": "This study shows that a defined mixture mimicking fungal exudates triggers earlier and faster growth in Pseudomonas putida compared to individual substrates, even when carbon and nitrogen are matched. The findings highlight that substrate diversity itself, not just total nutrients, can shape microbial phenotypes and metabolism.",
+      "significance": "Medium",
+      "tags": [
+        "microbiology",
+        "metabolomics",
+        "systems-biology"
+      ]
+    },
+    {
+      "id": "45fa6babec4b",
+      "title": "A metabolic model of the leaf-associated bacterium Paraburkholderia dioscoreae links the ethylene precursor ACC to core carbon pathways.",
+      "abstract": "Paraburkholderia dioscoreae MSB3T is a novel species with potential agricultural impact, isolated from leaf acumens of the \"air potato yam\" Dioscorea bulbifera. P. dioscoreae's genome encodes a relevant combination of features mediating a beneficial plant-associated lifestyle, and it exhibits significant growth promotion when applied to agriculturally important plants such as tomato. Here, we constructed iPR1691, the first genome-scale metabolic model for P. dioscoreae MSB3, which includes 1,687 reactions, 1,487 metabolites, and 1,691 genes. From an available annotation of P. dioscoreae's geno",
+      "journal": "mSystems",
+      "doi": "10.1128/msystems.00514-26",
+      "pmid": "42439556",
+      "first_author": "Rolle P",
+      "pub_date": "2026-Aug-18",
+      "source": "PubMed",
+      "url": "https://doi.org/10.1128%2Fmsystems.00514-26",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.1128%2Fmsystems.00514-26"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42439556/"
+        }
+      ],
+      "summary": "This study presents iPR1691, the first genome-scale metabolic model for the plant-associated bacterium Paraburkholderia dioscoreae, linking the plant hormone precursor ACC to core carbon metabolism. The model provides a framework for understanding how this bacterium promotes plant growth and may guide future agricultural applications.",
+      "significance": "Medium",
+      "tags": [
+        "systems-biology",
+        "microbiology",
+        "metabolomics"
       ]
     },
     {
@@ -422,7 +577,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42607674/"
         }
       ],
-      "summary": "This paper presents scRICH, a computational framework that uses single-cell and spatial transcriptomics data to identify heterogeneity in cell-cell communication across biological scales. The method aims to reveal how communication pathways influence cell fate decisions, addressing a key challenge in studying intercellular signaling.",
+      "summary": "This paper presents scRICH, a computational framework that uses single-cell and spatial transcriptomics data to identify heterogeneity in cell-cell communication across biological scales. The method aims to reveal how communication pathways influence cell fate decisions, addressing a key challenge in studying intercellular signaling from high-throughput data.",
       "significance": "Medium",
       "tags": [
         "single-cell",
@@ -453,7 +608,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653338/"
         }
       ],
-      "summary": "This review discusses how mitochondrial dysfunction contributes to obesity and type 2 diabetes, highlighting coordinated changes in metabolic pathways across tissues. It proposes a 'precision mitochondrial medicine' approach that uses mitochondrial-centered biological networks to better understand and treat these complex diseases.",
+      "summary": "This review discusses how mitochondrial dysfunction contributes to obesity and type 2 diabetes, highlighting coordinated changes in mitochondrial pathways across tissues. It proposes a 'precision mitochondrial medicine' approach that uses mitochondrial-centered biological networks to better understand and treat metabolic diseases.",
       "significance": "Medium",
       "tags": [
         "systems-biology",
@@ -484,7 +639,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42302787/"
         }
       ],
-      "summary": "IAN is an R package that integrates gene expression data analysis with AI, using multi-agent LLMs to summarize and interpret enrichment results from pathway and regulatory databases. It provides context-aware, grounded interpretations to aid biological discovery.",
+      "summary": "IAN is an R package that integrates gene expression data analysis with an AI-driven multi-agent system, combining pathway and regulatory enrichment analyses with large language models to generate contextual summaries and interpretations. It provides a user-friendly tool for omics data discovery, leveraging established databases and LLM-guided reasoning to bridge computational results and biological insight.",
       "significance": "Medium",
       "tags": [
         "tool",
@@ -515,7 +670,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653305/"
         }
       ],
-      "summary": "This paper introduces IAGRN, a graph neural network with an interleaved-attention mechanism for inferring gene regulatory networks from single-cell RNA sequencing data. The method addresses challenges of data sparsity and noise by improving long-range dependency capture and mitigating over-smoothing, potentially leading to more accurate regulatory relationship recovery.",
+      "summary": "This paper introduces IAGRN, a graph neural network with an interleaved-attention mechanism for inferring gene regulatory networks from single-cell RNA sequencing data. The method addresses challenges of data sparsity and noise by improving long-range dependency capture and reducing over-smoothing, leading to more accurate regulatory relationship recovery.",
       "significance": "Medium",
       "tags": [
         "single-cell",
@@ -546,12 +701,43 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653279/"
         }
       ],
-      "summary": "This study integrates 30 public multi-omics datasets—including transcriptomics, DNA methylation, single-cell RNA-seq, and proteomics—to map cell-type-specific regulatory changes in multiple sclerosis (MS). The authors identify discordant methylation-expression coupling across cell types and highlight specific regulatory landscapes that may underlie MS risk loci, providing a more integrated view of disease mechanisms.",
+      "summary": "This study integrates 30 public multi-omics datasets—including transcriptomics, DNA methylation, single-cell RNA-seq, and proteomics—to map cell-type-specific regulatory landscapes in multiple sclerosis (MS). The authors identify discordant methylation-expression coupling across cell types, revealing novel cross-layer regulatory mechanisms that link genetic risk loci to disease-relevant molecular changes.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
         "epigenomics",
         "single-cell"
+      ]
+    },
+    {
+      "id": "48855ec4e32a",
+      "title": "SBML level 3 package: flux balance constraints version 3.",
+      "abstract": "Constraint-based modeling is a well-established modeling methodology used to study biological networks at both the medium-scale and genome-scale. Due to their large size and complexity, such steady-state flux models are typically analyzed using constraint-based optimization techniques, such as Flux Balance Analysis (FBA). The Flux Balance Constraints (FBC) Package extends SBML Level 3 to provide a standardized format for encoding, exchanging, and annotating constraint-based models. It includes support for modeling concepts such as objective functions, flux bounds, and annotation of model compo",
+      "journal": "Journal of integrative bioinformatics",
+      "doi": "10.1515/jib-2026-0006",
+      "pmid": "42590802",
+      "first_author": "Olivier BG",
+      "pub_date": "2026-Aug-13",
+      "source": "PubMed",
+      "url": "https://doi.org/10.1515%2Fjib-2026-0006",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.1515%2Fjib-2026-0006"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42590802/"
+        }
+      ],
+      "summary": "This paper describes version 3 of the Flux Balance Constraints (FBC) package for SBML Level 3, which provides a standardized format for encoding and exchanging constraint-based models like those used in Flux Balance Analysis. The update adds support for objective functions, flux bounds, and model component annotations, improving interoperability and reproducibility in systems biology.",
+      "significance": "Medium",
+      "tags": [
+        "systems-biology",
+        "tool",
+        "database"
       ]
     },
     {
@@ -577,7 +763,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653779/"
         }
       ],
-      "summary": "This study uses network pharmacology, network toxicology, and molecular docking to explore how cinnamaldehyde may counteract the effects of ochratoxin A, a food contaminant linked to type 2 diabetes and non-alcoholic fatty liver disease. It identifies potential molecular targets and pathways through which cinnamaldehyde could exert protective effects against OTA-induced comorbidity.",
+      "summary": "This study uses network pharmacology, network toxicology, and molecular docking to explore how cinnamaldehyde may counteract the effects of ochratoxin A, a food contaminant linked to type 2 diabetes and non-alcoholic fatty liver disease. The findings suggest that cinnamaldehyde acts through multiple molecular targets and pathways, potentially offering a protective mechanism against OTA-induced metabolic comorbidities.",
       "significance": "Medium",
       "tags": [
         "network-analysis",
@@ -608,7 +794,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42652205/"
         }
       ],
-      "summary": "This review proposes a systems biology framework that conceptualizes Alzheimer's disease as a progressive multi-layer network disorder, integrating multi-omics data to explain its heterogeneous trajectories and stage-dependent responses. It emphasizes hierarchical constraint propagation and loss of cross-scale coordination as key dynamics, offering a testable model for unifying diverse mechanistic evidence.",
+      "summary": "This review proposes a new conceptual framework for Alzheimer's disease (AD) as a multi-layer network disorder, integrating multi-omics data to explain its complex dynamics, including prolonged asymptomatic phases and variable clinical trajectories. The authors argue that AD progression results from hierarchical constraint propagation and loss of cross-scale coordination across molecular and systems levels, offering a testable model to unify disparate findings.",
       "significance": "Medium",
       "tags": [
         "systems-biology",
@@ -639,12 +825,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42595107/"
         }
       ],
-      "summary": "This review highlights the emerging role of TREM2 signaling in cardiovascular disease, emphasizing how macrophage heterogeneity and dynamic plasticity—beyond the traditional M1/M2 paradigm—contribute to disease progression. It discusses TREM2 as a key molecular hub in immune-metabolic crosstalk and explores its potential as a therapeutic target, with attention to timing and context-dependent effects.",
+      "summary": "This review highlights the role of TREM2 signaling in cardiovascular disease, emphasizing macrophage heterogeneity and dynamic plasticity beyond the traditional M1/M2 paradigm. It discusses TREM2 as a key molecular hub in immune-metabolic crosstalk and explores its potential as a therapeutic target, focusing on timing and macrophage-specific interventions.",
       "significance": "Medium",
       "tags": [
         "immunology",
-        "review",
-        "cardiovascular"
+        "cardiovascular",
+        "review"
       ]
     },
     {
@@ -670,12 +856,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42594868/"
         }
       ],
-      "summary": "This paper presents a computational framework that integrates machine learning with genome-scale metabolic models to predict how the microbiome, particularly Fusobacterium nucleatum, modulates tumor metabolism and drug responses in colorectal cancer. The model was trained on thousands of drug combination profiles and successfully predicted synergistic therapies, offering a new approach for designing microbiome-aware cancer treatments.",
+      "summary": "This paper presents a computational framework that integrates machine learning with genome-scale metabolic models to predict how the microbiome influences tumor drug response, specifically in colorectal cancer. The model, trained on thousands of drug combination profiles, identifies synergistic therapies that are modulated by the presence of microbes like Fusobacterium nucleatum, offering a new approach to microbiome-aware cancer treatment design.",
       "significance": "High",
       "tags": [
         "microbiome",
-        "metabolomics",
-        "machine-learning"
+        "machine-learning",
+        "systems-biology"
       ]
     },
     {
@@ -701,7 +887,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42594686/"
         }
       ],
-      "summary": "This study integrates machine learning, single-nucleus transcriptomics, and multiple experimental approaches to investigate the neurotoxic effects of GenX (HFPO-DA), a PFAS replacement chemical. The findings reveal MAPK-centered neuronal responses that may contribute to Alzheimer's disease risk, providing new insights into the potential neurotoxicity of this emerging contaminant.",
+      "summary": "This study investigates the potential link between the PFAS replacement chemical GenX and Alzheimer's disease by integrating multiple approaches, including single-nucleus transcriptomics and machine learning. The findings reveal MAPK-centered neuronal responses that may underlie GenX's neurotoxic effects and potential AD risk, providing a multi-layered view of its molecular impact.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
@@ -732,7 +918,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42497852/"
         }
       ],
-      "summary": "This study uses single-cell transcriptomics and live-cell imaging to map pattern-triggered immune responses across cell types and developmental zones in Arabidopsis roots. It finds that plant-derived phytocytokines trigger stronger immune responses than microbe-derived patterns, with receptor expression and signaling modules varying by cell type and zone, and that phytocytokines help balance growth and defense trade-offs.",
+      "summary": "This study uses single-cell transcriptomics and live-cell imaging to map pattern-triggered immune responses across cell types and developmental zones in Arabidopsis roots. It finds that plant-derived phytocytokines induce stronger immune responses than microbial patterns, with receptor expression differences shaping tissue-specific response intensities and growth-defense trade-offs.",
       "significance": "High",
       "tags": [
         "single-cell",
@@ -763,7 +949,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42584560/"
         }
       ],
-      "summary": "The paper introduces scDECIPHER, a computational framework that uses single-cell transcriptomics data to model and decipher the regulatory mechanisms underlying cell state transitions, particularly focusing on the asymmetry between forward and backward transitions. It aims to reveal the logical rules governing these transitions, addressing a key question in cell fate decision processes.",
+      "summary": "This paper introduces scDECIPHER, a computational framework that uses logical modeling of single-cell transcriptome data to decipher the regulatory mechanisms underlying cell state transitions, particularly focusing on the asymmetry between forward and backward transitions. The framework aims to reveal the largely unknown regulatory logic that governs these transitions, which are essential for cell fate decisions.",
       "significance": "Medium",
       "tags": [
         "single-cell",
@@ -794,8 +980,8 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42579744/"
         }
       ],
-      "summary": "CRITERIA is a new computational tool that efficiently computes equilibria of biochemical reaction networks by decomposing the network and translating elementary flux modes, overcoming limitations of the previous COMPILES framework such as computational intensity and restriction to zero kinetic deficiency networks. This enables analysis of larger and more complex systems, aiding understanding of cellular decision-making and robustness.",
-      "significance": "Medium",
+      "summary": "CRITERIA is a new computational tool that derives analytical expressions for equilibria in biochemical reaction networks, overcoming limitations of the previous COMPILES framework by handling networks with nonzero kinetic deficiency and using a more efficient translation step. It enables analysis of larger and more complex systems, facilitating understanding of cellular decision-making and robustness.",
+      "significance": "High",
       "tags": [
         "systems-biology",
         "tool",
@@ -803,55 +989,64 @@
       ]
     },
     {
-      "id": "6e9aeb482edd",
-      "title": "Distinct stage-specific transcriptional states of B cells in human tonsillar tissue",
-      "abstract": "B cells within secondary lymphoid tissues encompass a diverse range of activation states and multiple maturation processes that reflect antigen recognition and transition through the germinal center (GC) reaction, in which mature B cells differentiate into memory and antibody-secreting cells (ASCs). Here, using single-cell RNA-seq, we identify distinct activation and maturation profiles of B cells within and outside the GC reaction in human secondary lymphoid tissue. In particular, we identify a distinct, previously uncharacterized CCL4/CCL3 chemokine-expressing B-cell population with an expre",
-      "journal": "bioRxiv",
-      "doi": "10.1101/2021.08.17.456535",
-      "pmid": "",
-      "first_author": "",
-      "pub_date": "2021",
-      "source": "Semantic Scholar",
-      "url": "https://doi.org/10.1101%2F2021.08.17.456535",
+      "id": "4a63cd125314",
+      "title": "Correction: Transcriptome-informed metabolic modeling reveals astrocyte-specific vulnerabilities in mild cognitive impairment and Alzheimer's disease progression.",
+      "abstract": "[This corrects the article DOI: 10.3389/fbinf.2026.1816121.].",
+      "journal": "Frontiers in bioinformatics",
+      "doi": "10.3389/fbinf.2026.1953979",
+      "pmid": "42643565",
+      "first_author": "Angarita-Rodríguez A",
+      "pub_date": "2026--01",
+      "source": "PubMed",
+      "url": "https://doi.org/10.3389%2Ffbinf.2026.1953979",
       "links": [
         {
           "type": "doi",
           "label": "DOI",
-          "url": "https://doi.org/10.1101%2F2021.08.17.456535"
+          "url": "https://doi.org/10.3389%2Ffbinf.2026.1953979"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42643565/"
         }
       ],
-      "summary": "This study uses single-cell RNA-seq to map the transcriptional states of B cells in human tonsillar tissue, revealing distinct activation and maturation profiles within and outside the germinal center reaction. The authors identify a previously uncharacterized B-cell population expressing CCL4/CCL3 chemokines, providing new insights into B-cell heterogeneity in secondary lymphoid tissues.",
-      "significance": "Medium",
+      "summary": "This is a correction notice for a previously published article on transcriptome-informed metabolic modeling in Alzheimer's disease. It does not present new findings but fixes errors in the original publication.",
+      "significance": "Low",
       "tags": [
-        "single-cell",
         "transcriptomics",
-        "immunology"
+        "systems-biology"
       ]
     },
     {
-      "id": "8825e54c2732",
-      "title": "Unbiased reconstruction of a mammalian transcriptional network mediating the differential response to pathogens",
-      "abstract": "Peeking at Pathogen Response Networks Networks controlling gene expression serve as key decision-making circuits in cells, but the regulatory networks that control dynamic and specific gene expression responses to stimuli are often not well understood. This is particularly true for immune dendritic cells (DCs), which respond to pathogens by mounting elaborate transcriptional responses, and are centrally involved in infectious diseases, autoimmunity, and vaccines. Amit et al. (p. 257, published online 3 September) explored the transcriptional response of dendritic cells to specific classes of p",
-      "journal": "Science (New York, N.Y.)",
-      "doi": "10.1126/science.1179050",
-      "pmid": "",
-      "first_author": "",
-      "pub_date": "2009",
-      "source": "Semantic Scholar",
-      "url": "https://doi.org/10.1126%2Fscience.1179050",
+      "id": "78288ff72d8e",
+      "title": "pAo: A Consensus Genome-Scale Metabolic Model for Aspergillus oryzae Capturing Intraspecies Diversity.",
+      "abstract": "Aspergillus oryzae (koji mold) is a key microorganism in traditional food fermentations including soy sauce, sake, and miso and is important in novel culinary applications and modern biotechnology, such as sustainable meat alternatives and enzyme production. Despite its industrial importance, until recently, the most recent genome-scale metabolic model (GEM) for A. oryzae dated back to 2008 and was limited to a single strain (RIB40). Here, we present pAo, a pan-GEM for A. oryzae, integrating genomic data from 187 strains to capture species-wide metabolic diversity. Our model comprises 2,025 re",
+      "journal": "Computational and structural biotechnology journal",
+      "doi": "10.34133/csbj.0173",
+      "pmid": "42621141",
+      "first_author": "Gilis J",
+      "pub_date": "2026--01",
+      "source": "PubMed",
+      "url": "https://doi.org/10.34133%2Fcsbj.0173",
       "links": [
         {
           "type": "doi",
           "label": "DOI",
-          "url": "https://doi.org/10.1126%2Fscience.1179050"
+          "url": "https://doi.org/10.34133%2Fcsbj.0173"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42621141/"
         }
       ],
-      "summary": "This paper presents an unbiased approach to reconstructing the transcriptional regulatory network that governs how mammalian dendritic cells respond differentially to various pathogens. By integrating genomic and transcriptomic data, the authors identify key transcription factors and cis-regulatory elements that drive pathogen-specific gene expression programs, providing a comprehensive view of the dynamic immune response network.",
+      "summary": "The authors present pAo, a new consensus genome-scale metabolic model for Aspergillus oryzae that integrates genomic data from 187 strains to capture intraspecies metabolic diversity, replacing the outdated 2008 single-strain model. This pan-GEM includes 2,025 reactions and provides a more comprehensive resource for studying the metabolic capabilities of this industrially important fungus.",
       "significance": "High",
       "tags": [
-        "transcriptomics",
+        "genomics",
         "systems-biology",
-        "immunology"
+        "microbiology"
       ]
     }
   ]
