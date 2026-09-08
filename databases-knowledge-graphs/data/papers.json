@@ -1,6 +1,6 @@
 {
   "channel": "databases-knowledge-graphs",
-  "generated_at": "2026-09-07T21:57:12.349442",
+  "generated_at": "2026-09-08T21:34:47.748296",
   "count": 17,
   "papers": [
     {
@@ -26,7 +26,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42695975/"
         }
       ],
-      "summary": "This paper introduces a public ontology API that provides programmatic access to the ICTV virus taxonomy, addressing the previous lack of standardized, machine-readable access. The resource enables better integration, versioning, and interoperability for databases and bioinformatics tools that rely on up-to-date virus classification.",
+      "summary": "This paper introduces a public ontology API that provides programmatic access to the ICTV virus taxonomy, addressing the previous lack of structured, versioned, and interoperable access. The resource enables automated integration of up-to-date virus taxonomy into databases and bioinformatics workflows, improving consistency and efficiency in virology research and public health applications.",
       "significance": "Medium",
       "tags": [
         "database",
@@ -57,7 +57,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42503718/"
         }
       ],
-      "summary": "This study used association mapping in 205 soybean lines across 12 environments to identify genetic loci associated with canopy temperature under both irrigated and rainfed conditions, uncovering both known and novel genomic regions. These findings may aid breeding efforts for drought tolerance in soybean.",
+      "summary": "This study used association mapping in 205 soybean lines across 12 environments to identify genetic loci associated with canopy temperature under both irrigated and rainfed conditions. The analysis found both known and novel loci, providing targets for breeding soybeans with better drought tolerance.",
       "significance": "Medium",
       "tags": [
         "genomics",
@@ -88,12 +88,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42387263/"
         }
       ],
-      "summary": "The authors developed GENIAL, a novel computational framework that combines knowledge graphs and topological data analysis to refine and analyze gene regulatory networks, and applied it to tomato responses to multiple pathogens. This approach enables the exploration of crosstalk and trade-offs in multi-stress gene regulation, which was previously understudied.",
+      "summary": "The authors developed GENIAL, a novel framework combining knowledge graphs and topological data analysis to refine and analyze gene regulatory networks, and applied it to tomato multi-pathogen interactions. They also built TomTom, a FAIR knowledge graph integrating 11 public databases, to enable exploration of crosstalk and trade-offs in tomato stress responses. This provides a new computational approach for studying complex GRNs in multi-stress contexts.",
       "significance": "Medium",
       "tags": [
         "network-analysis",
         "systems-biology",
-        "plants"
+        "tool"
       ]
     },
     {
@@ -119,7 +119,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42113741/"
         }
       ],
-      "summary": "The authors introduce iMPI, a new integrative database cataloging microproteins that are encoded by retained introns in tumors. This resource addresses a gap in available databases by focusing on intron retention as a potential source of functional proteins in cancer, which may aid in understanding tumor biology and therapeutic resistance.",
+      "summary": "This paper introduces iMPI, a new integrative database that catalogs microproteins encoded by intron retention events in tumors. The authors investigated whether retained introns contain previously undiscovered protein-coding open reading frames and can produce proteins, addressing a gap in cancer-related intron resources.",
       "significance": "Medium",
       "tags": [
         "database",
@@ -150,12 +150,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42493837/"
         }
       ],
-      "summary": "This paper proposes a unified conceptual framework to clarify the often-confused terms multimodal, interaction modeling, and multimodule architecture in genomic prediction, emphasizing that these dimensions are conceptually independent. It provides a systematic way to describe data integration strategies and computational designs, which could help standardize reporting and improve communication in plant breeding research.",
+      "summary": "This paper proposes a unified conceptual framework to clarify the often-confused terms 'multimodal,' 'interaction modeling,' and 'multimodule architecture' in genomic prediction, arguing that these dimensions are conceptually independent. It provides a systematic way to describe and compare prediction models, which could help standardize research and communication in plant breeding and related fields.",
       "significance": "Medium",
       "tags": [
         "genomics",
-        "methodology",
-        "review"
+        "machine-learning",
+        "methodology"
       ]
     },
     {
@@ -181,11 +181,11 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42467724/"
         }
       ],
-      "summary": "This scoping review maps the cellular and molecular landscape of the human ovary across a woman's lifespan, highlighting advances from high-throughput omics technologies. It identifies inconsistencies and gaps in the current literature, emphasizing that not all molecular aspects are studied equally. The review underscores the need for more integrated and standardized approaches to fully understand ovarian function and its implications for fertility and postmenopausal health.",
+      "summary": "This scoping review maps the current state of high-throughput omics research on the human ovary across the female lifespan, highlighting which molecular layers (e.g., transcriptomics, proteomics) are well-studied and where inconsistencies or gaps remain. It underscores the need for more integrated and standardized approaches to fully understand ovarian function in the context of ART, fertility preservation, and postmenopausal health.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
-        "single-cell",
+        "proteomics",
         "review"
       ]
     },
@@ -212,12 +212,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42211230/"
         }
       ],
-      "summary": "This review examines the emerging role of generative AI in animal genomics for smart agriculture, highlighting its potential for data synthesis, biological sequence design, and integrative livestock systems. It discusses the shift from predictive to generative modeling and outlines current applications, challenges, and future prospects in this field.",
+      "summary": "This review examines the emerging role of generative AI in animal genomics for smart agriculture, highlighting its applications in data synthesis, biological sequence design, and integrative livestock systems. It discusses the paradigm shift from predictive to generative modeling and outlines key challenges and future prospects in this field.",
       "significance": "Medium",
       "tags": [
+        "genomics",
         "review",
-        "machine-learning",
-        "genomics"
+        "machine-learning"
       ]
     },
     {
@@ -243,12 +243,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42576726/"
         }
       ],
-      "summary": "This special issue presents proceedings from the 19th International Symposium on Integrative Bioinformatics, focusing on FAIR data principles and cross-domain data integration. The nine peer-reviewed articles highlight methodological advances in cross-omics integration and semantic technologies to address bottlenecks in life science data management.",
+      "summary": "This special issue presents proceedings from the 19th International Symposium on Integrative Bioinformatics, focusing on practical implementation of FAIR principles to improve data integration and interoperability. The nine peer-reviewed articles highlight methodological advances in cross-omics integration and semantic technologies for life science data management.",
       "significance": "Medium",
       "tags": [
         "systems-biology",
         "database",
-        "methodology"
+        "review"
       ]
     },
     {
@@ -274,12 +274,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42659676/"
         }
       ],
-      "summary": "This protocol paper proposes an ontology to standardize workplace violence incident reporting across public services, addressing the problem of underreporting caused by inconsistent terminology and sector-specific categories. The ontology aims to enable cross-sector comparability and cumulative understanding of workplace violence events.",
+      "summary": "This protocol paper proposes developing an ontology to standardize workplace violence incident reporting across public services, addressing the problem of underreporting caused by inconsistent terminology and sector-specific categories. The ontology aims to enable cross-sector comparability and cumulative understanding of workplace violence events.",
       "significance": "Medium",
       "tags": [
         "ontology",
-        "clinical",
-        "methodology"
+        "methodology",
+        "clinical"
       ]
     },
     {
@@ -305,10 +305,10 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42217408/"
         }
       ],
-      "summary": "This study uses network pharmacology to identify candidate metabolites involved in sepsis-associated encephalopathy (SAE), focusing on cerebrovascular endothelial injury and inflammatory regulation. The authors highlight glycitein as a potential protective metabolite and provide preliminary in vitro validation of its effects.",
+      "summary": "This study uses network pharmacology to identify candidate metabolites involved in sepsis-associated encephalopathy (SAE), focusing on cerebrovascular endothelial injury and inflammatory regulation. The authors highlight glycitein as a potential metabolite and provide preliminary in vitro validation of its role, offering a new avenue for understanding and treating SAE.",
       "significance": "Medium",
       "tags": [
-        "systems-biology",
+        "metabolomics",
         "network-analysis",
         "clinical"
       ]
@@ -336,7 +336,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42320479/"
         }
       ],
-      "summary": "This review discusses how recent advances in single-cell and spatial omics, high-plex imaging, and in vivo CRISPR perturbation and lineage tracing are enabling unprecedented mechanistic dissection of intratumoral heterogeneity (ITH). It highlights how these technologies can resolve the spatial and functional complexity of tumor ecosystems, which is crucial for understanding therapeutic resistance and disease progression.",
+      "summary": "This review discusses how recent advances in single-cell and spatial omics, high-plex imaging, and in vivo CRISPR perturbation and lineage tracing are enabling unprecedented mechanistic dissection of intratumoral heterogeneity (ITH). It highlights how these technologies can resolve the spatial and functional complexity of tumor ecosystems, which is critical for understanding therapeutic resistance and disease progression.",
       "significance": "Medium",
       "tags": [
         "spatial-omics",
@@ -367,7 +367,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42653286/"
         }
       ],
-      "summary": "This study uses co-expression network analyses to identify long non-coding RNA (lncRNA) programs associated with trophoblast development and the response to Zika virus infection, using samples from twins discordant for congenital Zika syndrome. It reveals specific lncRNA modules that may contribute to the differential susceptibility to Zika-related placental dysfunction and fetal outcomes.",
+      "summary": "This study uses co-expression network analysis to identify long non-coding RNA (lncRNA) programs associated with trophoblast development and the response to Zika virus infection, using hiPSC-derived trophoblasts from twins discordant for congenital Zika syndrome. It reveals specific lncRNA modules and potential regulatory roles that may contribute to the differential susceptibility to CZS.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
@@ -398,7 +398,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42651816/"
         }
       ],
-      "summary": "This study presents the first comprehensive proteomic reference map of the plant pathogen Alternaria gansuense, which causes yellow stunt and root rot in a leguminous forage crop. By optimizing protein extraction and using DIA mass spectrometry, the authors identified candidate virulence-associated proteins and core physiological features, providing a foundation for understanding the pathogen's biology and potential control strategies.",
+      "summary": "This study presents the first comprehensive proteome reference map of Alternaria gansuense, a fungal pathogen causing yellow stunt and root rot in the forage legume Astragalus adsurgens. By optimizing protein extraction and using DIA mass spectrometry, the authors identified candidate virulence-associated proteins and core physiological features, providing a foundational resource for understanding this pathogen's biology and pathogenicity.",
       "significance": "Medium",
       "tags": [
         "proteomics",
@@ -429,7 +429,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42574456/"
         }
       ],
-      "summary": "This study integrates long-read and short-read single-cell transcriptomics to profile pituitary glands from high-altitude Tibetan pigs and low-altitude pigs, generating a full-length single-cell atlas. The analysis identifies molecular mechanisms potentially underlying adaptation to high-altitude hypoxia stress.",
+      "summary": "This study integrates long-read and short-read single-cell transcriptomics to profile pituitary glands from high-altitude (Tibetan) and low-altitude (Diannan small-ear) pigs, generating a full-length single-cell atlas. The analysis identifies molecular mechanisms, including cell-type-specific gene expression and isoform usage, that may underlie adaptation to high-altitude hypoxia stress.",
       "significance": "Medium",
       "tags": [
         "single-cell",
@@ -460,7 +460,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42688162/"
         }
       ],
-      "summary": "This paper provides a practical guide to functional enrichment analysis (FEA), a key step in omics data analysis. It consolidates scattered information and offers actionable recommendations for beginners, covering the current landscape of FEA methods and best practices.",
+      "summary": "This paper provides a practical guide to functional enrichment analysis (FEA), a key step in omics data analysis. It consolidates scattered information on FEA methods and offers actionable recommendations and best practices for beginners navigating the many available approaches.",
       "significance": "Medium",
       "tags": [
         "methodology",
@@ -491,7 +491,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42676537/"
         }
       ],
-      "summary": "This study compares head transcriptomes of mass-reared (Bisexual and Tap-7) and wild Anastrepha ludens fruit flies to identify functional and metabolic changes associated with mass rearing for the Sterile Insect Technique. The findings reveal transcriptomic differences that may affect post-release performance, providing insights for improving SIT programs.",
+      "summary": "This study compares head transcriptomes of mass-reared (Bisexual and Tap-7) and wild Anastrepha ludens fruit flies to identify functional and metabolic changes induced by mass rearing for the Sterile Insect Technique (SIT). The findings reveal transcriptomic differences that may affect post-release performance, providing insights for improving SIT programs.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
@@ -522,7 +522,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42658812/"
         }
       ],
-      "summary": "This study presents the first high-quality reference genome for the Critically Endangered Orcés' Blue Whiptail lizard, assembled using Oxford Nanopore long-read sequencing. The assembly is highly contiguous and complete, providing a valuable genomic resource for conservation and evolutionary studies of this rare montane species.",
+      "summary": "This study presents the first high-quality reference genome for the Critically Endangered Orcés' Blue Whiptail lizard, assembled using Oxford Nanopore long-read sequencing. The assembly is highly contiguous and complete, providing a crucial genomic resource for conservation and evolutionary studies of this rare montane species.",
       "significance": "Medium",
       "tags": [
         "genomics",
