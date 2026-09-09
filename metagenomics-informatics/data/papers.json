@@ -1,8 +1,39 @@
 {
   "channel": "metagenomics-informatics",
-  "generated_at": "2026-09-08T21:27:36.362141",
+  "generated_at": "2026-09-09T21:13:35.321527",
   "count": 57,
   "papers": [
+    {
+      "id": "be78e9668414",
+      "title": "Genome-resolved analysis reveals disruption of gut microbial vitamin B and K2 biosynthesis during Toxoplasma gondii infection in mice.",
+      "abstract": "Toxoplasma gondii infection remodels the gut microbiome, yet its impact on microbial vitamin biosynthetic potential and host redox metabolism remains unclear. Here, we integrated mouse gut metagenomes with publicly available metagenome-assembled genomes (MAGs) to construct a genome-resolved atlas of B-vitamin and vitamin K2 biosynthesis. From 45,697 MAGs, we curated 4,771 representative genomes, of which 2,682 met high-quality criteria (completeness ≥90%, contamination <5%). Functional annotation identified 229,717 vitamin-related genes corresponding to 177 Kyoto Encyclopedia of Genes and Geno",
+      "journal": "Microbiology spectrum",
+      "doi": "10.1128/spectrum.01564-26",
+      "pmid": "42708583",
+      "first_author": "Yu H-L",
+      "pub_date": "2026-Sep-08",
+      "source": "PubMed",
+      "url": "https://doi.org/10.1128%2Fspectrum.01564-26",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.1128%2Fspectrum.01564-26"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42708583/"
+        }
+      ],
+      "summary": "This study uses genome-resolved metagenomics to show that Toxoplasma gondii infection disrupts gut microbial biosynthesis of B vitamins and vitamin K2 in mice. By curating high-quality metagenome-assembled genomes, the authors built a functional atlas of vitamin biosynthesis genes and linked infection-driven microbiome shifts to altered vitamin production potential.",
+      "significance": "Medium",
+      "tags": [
+        "metagenomics",
+        "microbiome",
+        "microbiology"
+      ]
+    },
     {
       "id": "0f4cdc8ebaba",
       "title": "ON-Time enables rapid microbiome sequencing and analysis for precision medicine.",
@@ -26,12 +57,74 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42705234/"
         }
       ],
-      "summary": "This paper presents ON-Time, a rapid (<5 hours) and accurate metagenomic sequencing and analysis method for individual patient fecal samples, designed for clinical use in the ICU to guide urgent microbiome-based treatment decisions. It simplifies the wet-lab workflow and reduces turnaround time, cost, and complexity compared to conventional methods, enabling timely precision medicine applications.",
+      "summary": "This paper introduces ON-Time, a rapid (<5 hours) and accurate metagenomic sequencing and analysis method for individual patient fecal samples, designed for clinical use in the ICU to guide urgent microbiome-based treatment decisions. It overcomes the long turnaround times, complexity, and high costs of conventional methods, enabling timely precision medicine applications.",
       "significance": "High",
       "tags": [
         "metagenomics",
         "microbiome",
         "clinical"
+      ]
+    },
+    {
+      "id": "30bc73f89c82",
+      "title": "Large-scale benchmarking of prokaryotic annotation tools across thousands of species.",
+      "abstract": "Genome annotation is an important step in deriving functional meaning from prokaryotic sequencing data, yet systematic evaluations guiding tool selection are lacking. We present the first large-scale investigation of four prominent open-source annotation tools (Prokka, Bakta, EggNOG-mapper, and PGAP) across 156,033 diverse genomes. This includes Escherichia coli strains for baseline performance, thousands of archaea and bacteria genomes, as well as frameshifted and metagenome-assembled genomes.",
+      "journal": "Genome biology",
+      "doi": "10.1186/s13059-026-04262-0",
+      "pmid": "42706541",
+      "first_author": "Jundzill M",
+      "pub_date": "2026-Sep-04",
+      "source": "PubMed",
+      "url": "https://doi.org/10.1186%2Fs13059-026-04262-0",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.1186%2Fs13059-026-04262-0"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42706541/"
+        }
+      ],
+      "summary": "This study provides the first large-scale benchmarking of four major prokaryotic genome annotation tools (Prokka, Bakta, EggNOG-mapper, and PGAP) across over 156,000 diverse genomes, including bacteria, archaea, and metagenome-assembled genomes. The findings offer systematic guidance on tool selection by comparing performance on baseline and challenging datasets, filling a critical gap in the field.",
+      "significance": "High",
+      "tags": [
+        "genomics",
+        "tool",
+        "methodology"
+      ]
+    },
+    {
+      "id": "99689f8fc941",
+      "title": "Exploring the ecological drivers of bacteriophage diversity and functional viral potential in the skin of the axolotl Ambystoma altamirani.",
+      "abstract": "Bacteriophages play important roles in shaping microbial community dynamics across diverse environments. In the amphibian skin, most microbiome studies have focused on bacteria and their interactions with the fungus Batrachochytrium dendrobatidis (Bd), leaving other microbial components, including viruses, largely unexplored. Here, we present the first characterization of the viral community in the amphibian skin microbiome, focusing on ecological drivers of bacteriophage diversity and functional potential in the axolotl Ambystoma altamirani. Using public shotgun metagenomes, we found that the",
+      "journal": "FEMS microbiology ecology",
+      "doi": "10.1093/femsec/fiag103",
+      "pmid": "42696749",
+      "first_author": "Cisneros-Martínez AM",
+      "pub_date": "2026-Sep-04",
+      "source": "PubMed",
+      "url": "https://doi.org/10.1093%2Ffemsec%2Ffiag103",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.1093%2Ffemsec%2Ffiag103"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42696749/"
+        }
+      ],
+      "summary": "This study provides the first characterization of bacteriophage communities on amphibian skin, using public shotgun metagenomes from the axolotl Ambystoma altamirani. It identifies ecological drivers of phage diversity and functional potential, highlighting the previously overlooked viral component of the amphibian skin microbiome.",
+      "significance": "Medium",
+      "tags": [
+        "metagenomics",
+        "microbiome",
+        "evolution"
       ]
     },
     {
@@ -57,7 +150,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42695693/"
         }
       ],
-      "summary": "Meta-CD is a user-friendly tool that helps biologists calculate sequencing coverage and depth for target species in metagenomic experiments, aiding in experimental design and post-sequencing analysis. It models how genome size, relative abundance, sequencing depth, and DNA quantity affect detection of target species, improving taxonomic and functional profiling and MAG recovery.",
+      "summary": "Meta-CD is a user-friendly tool that calculates sequencing coverage and depth for target species in metagenomics projects. It helps researchers plan experiments and analyze post-sequencing data by modeling how factors like genome size, abundance, and sequencing depth affect detection of specific organisms.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
@@ -88,7 +181,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42697887/"
         }
       ],
-      "summary": "This study integrates proteomic and metabolomic data from over 1,100 Parkinson's Progression Markers Initiative participants to identify stage-specific candidate biomarkers in cerebrospinal fluid and plasma. The multi-omics approach reveals distinct molecular signatures associated with different disease stages, potentially improving early diagnosis and longitudinal monitoring of Parkinson's disease.",
+      "summary": "This study integrates proteomic and metabolomic data from over 1,100 Parkinson's Progression Markers Initiative participants to identify stage-specific candidate biomarkers for Parkinson's disease. The multi-omics approach reveals distinct molecular signatures associated with different disease stages, potentially improving early diagnosis and disease monitoring.",
       "significance": "Medium",
       "tags": [
         "proteomics",
@@ -119,7 +212,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42697798/"
         }
       ],
-      "summary": "This review highlights a gap in cystic fibrosis research: while many studies catalog how medications affect which microbes are present in the airways, few examine how drugs alter the ecological interactions (networks) between those microbes. The authors argue for a shift toward studying microbial interaction networks to better understand treatment effects on the airway ecosystem.",
+      "summary": "This review highlights a gap in cystic fibrosis research: most studies catalog how medications alter the types and abundances of airway microbes, but few examine how drugs affect the ecological interactions (networks) between these microbes. The authors argue for a shift toward studying microbial interaction networks to better understand treatment effects on the airway ecosystem.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -153,8 +246,8 @@
       "summary": "The authors developed a metagenomic, species-level CF Gut Microbial Dysbiosis Index (CF-GMDI) to standardize measurement of gut microbial imbalance in children with cystic fibrosis. Using stool metagenomic data from the PEARL-CF study, they identified differentially abundant taxa and constructed an index that quantifies dysbiosis, potentially improving comparability across studies.",
       "significance": "Medium",
       "tags": [
-        "metagenomics",
         "microbiome",
+        "metagenomics",
         "clinical"
       ]
     },
@@ -181,12 +274,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42690060/"
         }
       ],
-      "summary": "This study evaluates a culture-enriched metagenomics (CEMG) pipeline, with and without antibiotic selection, to improve detection of antimicrobial resistance genes (ARGs) in livestock manure and anaerobic digestate. The approach enhances the recovery of low-abundance ARGs and provides better resolution for linking ARGs to their microbial hosts and mobile genetic elements, addressing key limitations of conventional metagenomics.",
+      "summary": "This study evaluates a culture-enriched metagenomics (CEMG) pipeline, with and without antibiotic selection, for detecting antimicrobial resistance genes (ARGs) in livestock manure and anaerobic digestate. The approach improves detection of low-abundance ARGs and provides better resolution of ARG associations with microbial hosts and mobile genetic elements compared to conventional metagenomics.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
         "microbiome",
-        "methodology"
+        "tool"
       ]
     },
     {
@@ -212,12 +305,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42684649/"
         }
       ],
-      "summary": "This study uses network pharmacology and bioinformatics to investigate how gut microbiota-derived metabolites protect against acute kidney injury (AKI), identifying potential molecular mechanisms and pathways. The findings provide a systems-level understanding of the therapeutic effects of these metabolites, which could inform future treatment strategies for AKI.",
+      "summary": "This study uses network pharmacology and bioinformatics to investigate how gut microbiota metabolites protect against acute kidney injury (AKI), aiming to uncover the underlying molecular mechanisms. The findings provide a systems-level view of the metabolite-target-pathway network, potentially informing new therapeutic strategies for AKI.",
       "significance": "Medium",
       "tags": [
-        "metabolomics",
+        "systems-biology",
         "network-analysis",
-        "systems-biology"
+        "microbiome"
       ]
     },
     {
@@ -274,7 +367,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42696471/"
         }
       ],
-      "summary": "This review discusses how prosthetic joint infections (PJIs) are biofilm-driven and poorly captured by conventional culture-based diagnostics, advocating for convergent methodologies that integrate transdisciplinary approaches to better understand and prevent biofilm-driven implant failure. It highlights the need to combine taxonomic, spatial, host-response, and surface-interaction data to gain a more complete picture of PJI pathogenesis.",
+      "summary": "This review argues that prosthetic joint infections (PJIs) are complex, biofilm-driven diseases that cannot be fully understood through conventional culture-based diagnostics alone. It advocates for integrating transdisciplinary approaches—such as genomics, spatial biology, and host-response analysis—to gain a more complete picture of infection mechanisms and to develop better prevention and treatment strategies.",
       "significance": "Medium",
       "tags": [
         "microbiology",
@@ -305,7 +398,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42685266/"
         }
       ],
-      "summary": "This study benchmarks computational methods for extracting and classifying microbial transcripts from host-dominated human RNA-seq data, addressing the challenge of repurposing such datasets for microbiome analysis. It evaluates host-read filtering and microbial classification strategies, providing guidance for researchers working with weak microbial signals in metatranscriptomic data.",
+      "summary": "This study benchmarks computational methods for extracting and classifying weak microbial signals from host-dominated human RNA-seq data, addressing the lack of a ready-to-use pipeline for repurposing such datasets for microbiome analysis. It evaluates host read filtering and microbial transcript classification strategies, providing guidance for researchers working with host-contaminated metatranscriptomes.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
@@ -336,7 +429,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42679805/"
         }
       ],
-      "summary": "This study investigates how maternal secretor status and human milk oligosaccharides shape the infant gut resistome, using metagenomic data from the MAMI cohort and validating in an independent cohort. The findings reveal that C-section delivery is associated with increased antibiotic resistance gene abundance, while maternal secretor status and milk oligosaccharide composition modulate the resistome, suggesting a potential dietary influence on early-life antimicrobial resistance development.",
+      "summary": "This study investigates how maternal secretor status and human milk oligosaccharides shape the infant gut resistome. Using metagenomic data from the MAMI cohort and validation in an independent cohort, the authors find that C-section is associated with increased antibiotic resistance gene abundance, while maternal secretor status and milk oligosaccharides modulate the resistome, suggesting potential dietary strategies to reduce antibiotic resistance carriage in infants.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
@@ -367,7 +460,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42679417/"
         }
       ],
-      "summary": "This study compares sediment microbiomes between a mariculture-impacted eutrophic bay and an adjacent oligotrophic coastal sea, finding higher microbial abundance and diversity in the impacted bay. The authors integrate multiple methods to show that eutrophication shifts microbial community assembly and life-history strategies, with potential implications for nutrient cycling and antibiotic resistance in coastal sediments.",
+      "summary": "This study compares sediment microbiomes between a mariculture-impacted eutrophic bay and an oligotrophic coastal sea, finding that eutrophic sediments harbor higher microbial abundance and diversity. The authors integrate amplicon, metagenomic, and cultivation data to reveal distinct community assembly processes and life-history strategies, with eutrophic conditions favoring copiotrophic taxa and increased antibiotic resistance. These findings highlight how intensive mariculture reshapes benthic microbial communities and their functional potential.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -398,7 +491,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42679008/"
         }
       ],
-      "summary": "This study used portable metagenomics to analyze diarrheal samples from suspected cholera cases in Burundi, revealing that many cases were caused by other pathogens rather than Vibrio cholerae. The findings highlight the limitations of syndromic diagnosis and the value of metagenomic sequencing for accurate outbreak surveillance and treatment.",
+      "summary": "This study uses portable metagenomics to analyze diarrheal samples from cholera-suspected patients in Burundi, revealing that many cases are caused by pathogens other than Vibrio cholerae. The findings highlight the limitations of syndromic diagnosis and the value of metagenomic sequencing for accurate pathogen identification in outbreak settings.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
@@ -429,12 +522,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42678158/"
         }
       ],
-      "summary": "This study screens wetland metagenomes from IMG/M for methanol oxidation genes, particularly the lanthanide-dependent xoxF, and finds that xoxF-linked methanol oxidation signals recur across diverse wetland ecosystems. The work highlights the ecological importance of methanol oxidation in wetlands, which is often overshadowed by methane oxidation research.",
+      "summary": "This study screens wetland metagenomes from IMG/M and finds that lanthanide-dependent methanol oxidation genes (xoxF) are widespread and recurrent across diverse wetland ecosystems, highlighting their overlooked ecological role in methane-cycling communities. The work underscores the importance of including methanol oxidation in wetland microbial analyses.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
         "microbiology",
-        "microbiome"
+        "evolution"
       ]
     },
     {
@@ -460,7 +553,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42675508/"
         }
       ],
-      "summary": "This study uses metagenomics to characterize how the rumen virome of grazing yak and cattle on the Qinghai-Tibet Plateau changes between warm and cold seasons, revealing seasonal shifts in viral diversity and functional potential. The findings suggest that rumen viruses may help hosts adapt to extreme environmental fluctuations by influencing microbial metabolism, providing new insights into host-microbiome-virus interactions in harsh conditions.",
+      "summary": "This study uses metagenomics to characterize how the rumen virome of grazing yak and cattle on the Qinghai-Tibet Plateau changes between warm and cold seasons, revealing seasonal plasticity in viral diversity and functional potential. The findings suggest that viruses may help microbial communities adapt to extreme environmental fluctuations, potentially influencing host metabolism and productivity.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
@@ -491,12 +584,43 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42666020/"
         }
       ],
-      "summary": "By resampling soils from 38 forest and grassland sites across eastern China a decade apart, this study found that soil microbial diversity increased broadly in association with nitrogen deposition, contrary to expectations from short-term nitrogen addition experiments. The findings highlight that real-world environmental changes can have different long-term impacts on soil microbial communities than simulated manipulations.",
-      "significance": "High",
+      "summary": "By resampling soils from 38 forest and grassland sites across eastern China a decade apart, this study found that soil microbial diversity increased over time, likely driven by nitrogen deposition. The findings highlight that real-world environmental changes can have different effects on soil microbial communities than short-term experimental nitrogen additions.",
+      "significance": "Medium",
       "tags": [
         "microbiome",
         "metagenomics",
         "environmental"
+      ]
+    },
+    {
+      "id": "b13083ce05fe",
+      "title": "Major Depressive Disorder Signatures: A Review of Artificial Intelligence (AI)-Powered Insights Into Gut Dysbiosis.",
+      "abstract": "Major Depressive Disorder (MDD) is a highly common neuropsychiatric disorder globally. A variety of factors contribute to the neuropathology of MDD. Microbiome research in neuropsychiatric disorders such as MDD has recently attracted attention. Indeed, the gut-brain axis could influence the course of MDD through metabolites such as Gamma-Aminobutyric Acid (GABA), Quinolinate, and other factors. Such metabolites may modulate the balance of excitatory and inhibitory signals. Moreover, MDD features abundant hyperinflammatory bacteria, whereas anti-inflammatory butyrate-synthesizing genera are dec",
+      "journal": "Health science reports",
+      "doi": "10.1002/hsr2.73159",
+      "pmid": "42707775",
+      "first_author": "Keshvari NZ",
+      "pub_date": "2026-Sep-01",
+      "source": "PubMed",
+      "url": "https://doi.org/10.1002%2Fhsr2.73159",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.1002%2Fhsr2.73159"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42707775/"
+        }
+      ],
+      "summary": "This review explores how artificial intelligence (AI) is being used to analyze gut microbiome data in Major Depressive Disorder (MDD), highlighting links between gut dysbiosis and the condition. It discusses how microbial metabolites like GABA and quinolinate may influence brain signaling and inflammation, and how AI can help identify disease signatures. The paper underscores the potential of AI-powered microbiome analysis for advancing understanding and diagnosis of MDD.",
+      "significance": "Medium",
+      "tags": [
+        "microbiome",
+        "machine-learning",
+        "review"
       ]
     },
     {
@@ -522,7 +646,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42699828/"
         }
       ],
-      "summary": "This narrative review synthesizes evidence linking airway and gut microbiota to clinical features of COPD, highlighting that microbial associations are highly sensitive to methodological factors such as sampling site, sequencing depth, and bioinformatic workflows. The authors emphasize the need for standardized protocols and translational priorities to move microbiome research toward clinical applications in COPD.",
+      "summary": "This narrative review examines how airway and gut microbiota relate to COPD clinical features, highlighting that findings are highly variable due to methodological differences such as sampling site, sequencing platforms, and confounding factors. It emphasizes the need for standardized approaches and identifies translational priorities for microbiome-based diagnostics or therapies in COPD.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -553,12 +677,11 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42698330/"
         }
       ],
-      "summary": "This study examines the immunomodulatory effects of an alfalfa polysaccharide fraction (APS-II) on mice with cyclophosphamide-induced immunosuppression, finding that APS-II treatment improves immune organ indices, serum cytokines, and antioxidant status. The research suggests APS-II has potential as a natural immunoprotective agent, though the underlying mechanisms are not fully explored.",
-      "significance": "Medium",
+      "summary": "This study examines whether alfalfa polysaccharide fraction II (APS-II) can protect against cyclophosphamide-induced immunosuppression in mice. The authors extracted and characterized APS-II, then showed it improved immune organ indices, serum cytokines, and antioxidant status in a mouse model, suggesting a potential immunomodulatory role.",
+      "significance": "Low",
       "tags": [
         "immunology",
-        "metabolomics",
-        "clinical"
+        "metabolomics"
       ]
     },
     {
@@ -584,7 +707,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42696306/"
         }
       ],
-      "summary": "This paper provides a practical, step-by-step protocol for using multiparametric flow cytometry to analyze complex microbial communities at the single-cell level, addressing limitations of traditional culture-based and sequencing methods. It highlights recent technical improvements that enable high-resolution characterization of small microbial cells, offering a valuable resource for researchers studying microbiota-host interactions.",
+      "summary": "This paper provides a practical, step-by-step protocol for using multiparametric flow cytometry to analyze complex microbial communities at the single-cell level, addressing limitations of culture-based and sequencing methods. It highlights recent technical improvements that enable high-resolution characterization of small microbial cells, offering a valuable resource for researchers studying microbiota-host interactions.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -615,7 +738,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42695375/"
         }
       ],
-      "summary": "This study experimentally shows that soil microbial effects on tree seedling performance vary across forest successional stages and among tree species, influencing seedling emergence, growth, and mortality. The findings suggest that soil microbiota contribute to tree species turnover during secondary succession in tropical forests.",
+      "summary": "This study experimentally tested how soil microbes from different forest successional stages affect the emergence, growth, and survival of seven tropical tree species. The findings reveal that soil microbial effects vary by successional stage and tree species, suggesting that soil microbiota play a role in driving tree species turnover during secondary forest succession.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -646,7 +769,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42685265/"
         }
       ],
-      "summary": "AResKGLM is a new framework that combines knowledge graphs with large language models to provide interpretable, multi-hop reasoning about antimicrobial resistance. It addresses the limitation of existing methods that either compress evidence into scalar scores or generate explanations not grounded in structured data, enabling more transparent prioritization of resistance determinants.",
+      "summary": "AResKGLM is a new framework that combines knowledge graphs with large language models to provide interpretable, multi-hop reasoning for antimicrobial resistance (AMR). It addresses the limitation of existing graph-based methods that output scalar scores and LLMs that lack structured grounding, enabling evidence-based explanations of resistance determinants.",
       "significance": "Medium",
       "tags": [
         "machine-learning",
@@ -677,12 +800,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42657436/"
         }
       ],
-      "summary": "This study presents the nuclear genome of the coccolithophore Calcidiscus leptoporus and combines it with metagenomic and experimental data to reveal that interactions with phycosphere bacteria are mediated by B-vitamin exchange. The findings provide new insights into the functional basis of coccolithophore-bacteria holobiont interactions and their potential role in marine carbon cycling.",
-      "significance": "High",
+      "summary": "This study presents the nuclear genome of the coccolithophore Calcidiscus leptoporus and combines it with metagenomic and experimental approaches to reveal that interactions with phycosphere bacteria are mediated by B-vitamin exchange, highlighting a vitamin-based holobiont mechanism in marine phytoplankton.",
+      "significance": "Medium",
       "tags": [
         "genomics",
         "microbiome",
-        "marine biology"
+        "metagenomics"
       ]
     },
     {
@@ -708,7 +831,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42683728/"
         }
       ],
-      "summary": "This study uses metagenome-scale metabolic modeling to quantify metabolic niche complementarity between donor and recipient gut microbiomes, aiming to improve donor selection for fecal microbiota transplantation (FMT). The authors show that donor genomes with higher metabolic complementarity to the recipient's microbiome better predict post-FMT community composition, offering a precision approach to FMT therapy.",
+      "summary": "This study uses metagenome-scale metabolic modeling to quantify metabolic niche complementarity between donor and recipient microbiomes, aiming to improve donor selection for fecal microbiota transplantation (FMT). The authors demonstrate that donor genomes with higher metabolic complementarity to the recipient's microbiome better predict post-FMT community composition, offering a potential precision approach to FMT therapies.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
@@ -739,7 +862,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42702821/"
         }
       ],
-      "summary": "This study uses the SAMP1/YitFc mouse model of spontaneous ileitis to investigate the mechanisms behind enteric hyperoxaluria, a condition common in IBD patients. The authors hypothesize that fat malabsorption, increased gut permeability, and microbial shifts collectively drive the hyperoxaluric phenotype, and they test this by feeding mice diets with varying fat content and oxalate supplementation.",
+      "summary": "This study uses the SAMP1/YitFc mouse model of spontaneous ileitis to investigate the mechanisms underlying enteric hyperoxaluria, a complication of inflammatory bowel disease. The authors test the hypothesis that fat malabsorption, increased gut permeability, and microbial shifts collectively contribute to hyperoxaluria, and they examine the effects of varying dietary fat content on the hyperoxaluric phenotype.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -770,43 +893,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42671180/"
         }
       ],
-      "summary": "This study tracks the development of the infant oral ecosystem by analyzing salivary bacteriomes, viromes, and metabolomes from 10 mother-infant dyads at ages 1 and 2. It finds that infant oral profiles are distinct from mothers and evolve over time, while maternal profiles remain stable, highlighting dynamic microbial and metabolic changes in early life.",
+      "summary": "This study tracks how the infant oral ecosystem—including bacteria, viruses, and metabolites—develops between ages 1 and 2, showing that infant profiles are distinct from their mothers' and evolve over time. The findings highlight coordinated changes across the salivary microbiome and metabolome during early childhood.",
       "significance": "Medium",
       "tags": [
         "microbiome",
         "metabolomics",
         "metagenomics"
-      ]
-    },
-    {
-      "id": "e7a5bce2eebd",
-      "title": "Causal relationships between oral-gut microbiome and bone neoplasm-related phenotypes: Insights from bidirectional Mendelian randomization.",
-      "abstract": "The human oral and gut microbiota are the 4 largest microbial communities in the body and play crucial roles in maintaining homeostasis and influencing disease. Observational studies have suggested links between these microbiota and bone neoplasm-related phenotypes, but establishing causality has been challenging due to confounding factors and reverse causality. We conducted a bidirectional, 2-sample Mendelian randomization (MR) study to investigate evidence consistent with a potential causal association between the saliva and gut microbiota and various bone neoplasm-related phenotypes. Geneti",
-      "journal": "Medicine",
-      "doi": "10.1097/MD.0000000000050422",
-      "pmid": "42675685",
-      "first_author": "Zou Q",
-      "pub_date": "2026-Aug-28",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1097%2FMD.0000000000050422",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1097%2FMD.0000000000050422"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42675685/"
-        }
-      ],
-      "summary": "This study used bidirectional Mendelian randomization to investigate causal relationships between oral/gut microbiota and bone neoplasm-related phenotypes, finding potential causal links that are less likely to be confounded by reverse causality. The results suggest specific microbial taxa may influence bone neoplasm risk, though further validation is needed.",
-      "significance": "Medium",
-      "tags": [
-        "microbiome",
-        "clinical",
-        "methodology"
       ]
     },
     {
@@ -837,7 +929,7 @@
       "tags": [
         "metagenomics",
         "microbiome",
-        "clinical"
+        "tool"
       ]
     },
     {
@@ -863,7 +955,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42693476/"
         }
       ],
-      "summary": "This study uses metagenomics to compare marine biofilms that induce versus inhibit coral larval settlement, identifying taxonomic and functional features associated with settlement cues. The findings provide new insights into the microbial mechanisms underlying coral recruitment, which could inform reef restoration efforts.",
+      "summary": "This study uses metagenomics to investigate how marine biofilms induce or inhibit coral larval settlement, identifying functional and taxonomic features of biofilms associated with settlement of four broadcast-spawning coral species. The findings provide insights into the microbial cues and mechanisms underlying coral recruitment, which is critical for reef restoration efforts.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
@@ -894,11 +986,11 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42652023/"
         }
       ],
-      "summary": "This study documents the first natural infection of domestic dogs with raccoon dog and fox amdoparvovirus (RFAV), identified during a severe disease outbreak in a Serbian kennel. Metagenomic sequencing and targeted PCR confirmed RFAV in affected Dobermanns after common canine pathogens were ruled out, expanding the known host range of this virus.",
-      "significance": "Medium",
+      "summary": "This study documents the first natural infection of domestic dogs with raccoon dog and fox amdoparvovirus (RFAV), identified during a severe disease outbreak in a Serbian kennel. Metagenomic sequencing and targeted PCR confirmed RFAV in affected Dobermanns after common canine pathogens were ruled out, highlighting a potential emerging pathogen in dogs.",
+      "significance": "High",
       "tags": [
+        "genomics",
         "microbiology",
-        "metagenomics",
         "clinical"
       ]
     },
@@ -925,74 +1017,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42655191/"
         }
       ],
-      "summary": "The authors developed Context-Aware Annotation Completion (CAAC), a framework that uses ESM2 protein language model embeddings and genomic-neighborhood features to fill gaps in functional annotations of carbohydrate metabolism genes in silage microbial metagenomes. Applied to 21 silage metagenomes, CAAC achieved high cross-validation performance and improved coverage of carbohydrate-active enzyme annotations, demonstrating utility for enhancing metagenomic functional interpretation.",
+      "summary": "The authors developed CAAC, a framework that uses ESM2 protein embeddings and genomic-neighborhood context to predict missing functional annotations for carbohydrate metabolism genes in silage microbial metagenomes. Applied to 21 silage metagenomes, CAAC achieved high cross-validation performance and improved annotation coverage, enabling more complete metabolic interpretation.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
         "machine-learning",
-        "microbiology"
-      ]
-    },
-    {
-      "id": "7fbcf56d766f",
-      "title": "Wastewater Metagenomic Reanalysis of Antibiotic Resistance Genes in Public Datasets from Türkiye (Ankara and Hatay).",
-      "abstract": "Background/Objectives: Antimicrobial resistance in microbial communities is a global health concern that leads to millions of deaths each year. Many bacterial pathogens have resistance to multiple antibiotics. Domestic wastewater treatment facilities are reservoirs for antibiotic-resistant bacteria and resistance genes. Wastewater-based epidemiology surveillance is crucial for monitoring antibiotic resistance genes (ARGs). Türkiye has one of the highest levels of antibiotic resistance with a lack of research on resistomes. This study is a focused reanalysis of publicly available wastewater met",
-      "journal": "Antibiotics (Basel, Switzerland)",
-      "doi": "10.3390/antibiotics15080795",
-      "pmid": "42650720",
-      "first_author": "Kurt H",
-      "pub_date": "2026-Aug-17",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fantibiotics15080795",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fantibiotics15080795"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42650720/"
-        }
-      ],
-      "summary": "This study reanalyzed publicly available wastewater metagenomic datasets from Ankara and Hatay in Türkiye to profile antibiotic resistance genes (ARGs), addressing a gap in resistome surveillance in a country with high antibiotic resistance. The findings highlight domestic wastewater treatment facilities as reservoirs of diverse ARGs and underscore the utility of reusing public metagenomic data for wastewater-based epidemiology.",
-      "significance": "Medium",
-      "tags": [
-        "metagenomics",
-        "microbiome",
-        "clinical"
-      ]
-    },
-    {
-      "id": "65cc057ead34",
-      "title": "Land-Use and Depth-Dependent Assembly of Soil Microbiomes Shapes Ecological Functions, Interaction Networks, and Phytopathogenic Communities Across Crop and Orchard Systems.",
-      "abstract": "Soil microorganisms are essential for nutrient cycling, plant productivity, and soil health, yet the relative importance of land-use and soil depth in shaping agricultural microbiomes remains poorly understood. This study investigated soil microbial communities across uncultivated land, alfalfa fields, crop systems (feed corn and sweet corn), and orchard systems (walnut and quince) in the Hajdúnánás region of Hungary using shotgun metagenomic sequencing and soil physicochemical analyses. Microbial alpha diversity showed limited variation among land-use systems but declined significantly with s",
-      "journal": "Antioxidants (Basel, Switzerland)",
-      "doi": "10.3390/antiox15081017",
-      "pmid": "42650281",
-      "first_author": "Gashi N",
-      "pub_date": "2026-Aug-14",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fantiox15081017",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fantiox15081017"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42650281/"
-        }
-      ],
-      "summary": "This study used shotgun metagenomics to examine how land-use type and soil depth shape soil microbial communities in Hungarian agricultural systems, finding that depth had a stronger effect on diversity than land use. The authors linked these microbial shifts to changes in ecological functions, interaction networks, and the abundance of phytopathogenic communities, highlighting the importance of depth in managing soil health and crop pathogens.",
-      "significance": "Medium",
-      "tags": [
-        "metagenomics",
-        "microbiome",
-        "agriculture"
+        "microbiome"
       ]
     },
     {
@@ -1018,43 +1048,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42655130/"
         }
       ],
-      "summary": "This review synthesizes evidence on precision nutrigenomics in farmed finfish, emphasizing the diet-microbiome-host axis and how feed components like soybean proteins and lipid replacements regulate gene expression, microbial ecology, metabolism, and immunity. It highlights the need for integrated multi-omic approaches to optimize aquaculture diets for health and sustainability.",
+      "summary": "This review synthesizes evidence on precision nutrigenomics in farmed finfish, emphasizing the diet-microbiome-host axis and how dietary components like soybean proteins and lipid replacements regulate gene expression, microbial ecology, metabolism, and immunity. It highlights the need for integrated multi-omic approaches to optimize aquaculture diets.",
       "significance": "Medium",
       "tags": [
         "transcriptomics",
         "microbiome",
         "review"
-      ]
-    },
-    {
-      "id": "653569b3854f",
-      "title": "Microbial Functional Potentials Differ Among Monospecific and Mixed Moss Biocrusts in an Alpine Sandy Ecosystem.",
-      "abstract": "Moss-dominated biological soil crusts are associated with carbon and nitrogen cycling in dryland and alpine sandy ecosystems, but functional differentiation among closely related moss species and their mixed assemblages remains unclear. We used shotgun metagenomic sequencing to compare below-crust soil associated with Didymodon constrictus (Mitt.) K. Saito (D. constrictus) crusts (mossC), ferrugineus (Schimp. ex Besch.) M.O. Hill (D. ferrugineus) crusts (mossF), and visually co-dominated mixed crusts (mossM) in the Gonghe Basin on the northeastern Qinghai-Tibet Plateau. Fifteen spatially separ",
-      "journal": "Biology",
-      "doi": "10.3390/biology15161372",
-      "pmid": "42651677",
-      "first_author": "Liu M",
-      "pub_date": "2026-Aug-12",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3390%2Fbiology15161372",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3390%2Fbiology15161372"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42651677/"
-        }
-      ],
-      "summary": "This study uses shotgun metagenomics to compare soil microbial functional potentials beneath two monospecific moss biocrusts and a mixed moss biocrust in an alpine sandy ecosystem. It finds that microbial functional profiles differ among crust types, with mixed crusts potentially harboring distinct functional capacities related to nutrient cycling, highlighting the importance of moss species composition in shaping below-crust microbial communities.",
-      "significance": "Medium",
-      "tags": [
-        "metagenomics",
-        "microbiome",
-        "ecology"
       ]
     },
     {
@@ -1080,12 +1079,43 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42697801/"
         }
       ],
-      "summary": "This study investigated how the gut microbiome changes in multiple myeloma patients receiving daratumumab-based therapy. By analyzing stool samples from 40 patients before and after treatment, the authors identified specific microbial shifts associated with treatment response, potentially linking gut microbes to therapy outcomes.",
+      "summary": "This study investigated how the gut microbiome changes in 40 relapsed multiple myeloma patients receiving daratumumab-based therapy. The findings suggest that gut microbiome composition is associated with treatment response, potentially linking specific microbial abundances to therapy outcomes.",
       "significance": "Medium",
       "tags": [
         "microbiome",
         "clinical",
         "cancer"
+      ]
+    },
+    {
+      "id": "9e2606d348b0",
+      "title": "A hybrid and cost-efficient barcoding strategy for full-length 16S rRNA gene nanopore sequencing of environmental samples.",
+      "abstract": "Accurate species-level identification of bacteria in complex environmental samples is essential for applications in biotechnology, ecological monitoring, and clinical diagnostics. Short-read platforms such as Illumina frequently truncate the 16S rRNA gene, limiting taxonomic resolution. In this work, we applied Oxford Nanopore Technology (ONT) long-read sequencing to full-length 16S rRNA amplicon in samples from natural soil amended with lignocellulosic biomass and a simplified microbial community derived from cultures grown on selective and differential carboxymethyl cellulose (CMC)-based sub",
+      "journal": "BMC genomics",
+      "doi": "10.1186/s12864-026-13239-z",
+      "pmid": "42706506",
+      "first_author": "Romano I",
+      "pub_date": "2026-Aug-10",
+      "source": "PubMed",
+      "url": "https://doi.org/10.1186%2Fs12864-026-13239-z",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.1186%2Fs12864-026-13239-z"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42706506/"
+        }
+      ],
+      "summary": "This paper presents a hybrid barcoding strategy that combines short-read and long-read approaches to enable cost-efficient full-length 16S rRNA gene nanopore sequencing of environmental samples, improving species-level taxonomic resolution compared to short-read-only methods. The approach was validated on soil and simplified microbial community samples, demonstrating its utility for accurate bacterial identification in complex ecosystems.",
+      "significance": "Medium",
+      "tags": [
+        "microbiome",
+        "methodology",
+        "genomics"
       ]
     },
     {
@@ -1111,12 +1141,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42695179/"
         }
       ],
-      "summary": "This study uses shotgun metagenomic time-series data from seven European wastewater treatment plants to characterize the full microbial community—including bacteria, protists, fungi, and microscopic metazoa—in untreated influent. The authors find that community composition varies with geographic location and season, providing new insights into the biogeography of wastewater-associated microbial eukaryotes.",
+      "summary": "This study uses shotgun metagenomic time-series data from seven wastewater treatment plants across a European latitudinal gradient to characterize the taxonomic composition and dynamics of bacteria, protists, fungi, and microscopic metazoa in untreated influent. The authors find that influent microbial community composition varies with geographic location and season, providing new insights into the biogeography of wastewater-associated microbial eukaryotes.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
         "microbiome",
-        "evolution"
+        "microbiology"
       ]
     },
     {
@@ -1142,7 +1172,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42694775/"
         }
       ],
-      "summary": "This study identifies distinct oral microbiome signatures at tumor sites compared to paired non-lesion sites in oral squamous cell carcinoma patients from Pakistan, using predictive metagenomics to infer potential carcinogenic pathways. The findings suggest that specific microbial communities and their functional capabilities may contribute to tumorigenesis, offering a step toward non-invasive biomarkers for early diagnosis.",
+      "summary": "This study identifies distinct oral microbiome signatures at tumor sites compared to non-lesion sites in oral squamous cell carcinoma patients from Pakistan, using paired sampling and predictive metagenomics. The findings reveal lesion-specific bacterial communities and potential carcinogenic pathways, offering a step toward non-invasive biomarkers for early diagnosis.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -1173,7 +1203,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42666306/"
         }
       ],
-      "summary": "This study investigates how gut microbial communities are assembled in ulcerative colitis by analyzing mucosal and fecal microbiomes across genes, functions, and species. It reveals that ecological assembly processes differ between healthy and diseased states, providing insights into the dysbiosis associated with IBD.",
+      "summary": "This study investigates how gut microbial communities assemble in ulcerative colitis patients by analyzing mucosal and fecal microbiomes across genes, functions, and species, revealing that ecological processes differ between these niches and are disrupted in disease. The findings provide insight into the dysbiosis associated with IBD, potentially informing future therapeutic strategies.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -1204,7 +1234,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42666298/"
         }
       ],
-      "summary": "This study examines gut microbiome variation in type 2 diabetes across multiple biological levels, finding that while disease-associated changes occur in specific taxa and functional layers, the higher-order community structure remains largely preserved. The results suggest that T2D-related microbiome alterations are layered and may be influenced by confounding factors, highlighting the need for multi-level analysis.",
+      "summary": "This study investigates how type 2 diabetes (T2D) affects the gut microbiome across multiple biological levels, from individual taxa to higher-order community structure. Despite finding significant variation in taxonomic and functional layers associated with T2D, the overall higher-order community structure remained preserved, suggesting that disease-related shifts occur within a stable ecological framework.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -1235,12 +1265,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42656597/"
         }
       ],
-      "summary": "This study applies nanopore metagenomics to identify pathogens in febrile patients from a highland region of Western Kenya, aiming to address the diagnostic gap for non-malarial febrile illnesses. The approach demonstrates potential for characterizing causative agents in resource-limited settings, which could improve patient management and reduce inappropriate treatments.",
+      "summary": "This study uses nanopore metagenomics to identify pathogens in febrile patients from a highland region of Western Kenya, aiming to address the diagnostic gap for non-malarial febrile illnesses. The approach demonstrates potential for characterizing causative agents, which could improve patient management and reduce inappropriate treatments.",
       "significance": "Medium",
       "tags": [
         "metagenomics",
-        "microbiology",
-        "clinical"
+        "clinical",
+        "microbiology"
       ]
     },
     {
@@ -1266,12 +1296,74 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42656568/"
         }
       ],
-      "summary": "This perspective article discusses how agentic AI can be used to generate trustworthy synthetic microbial genomic data, emphasizing the need for biological plausibility and computational validation. The authors propose a framework that integrates generation, validation, and governance to ensure the reliability of synthetic data for benchmarking and other applications.",
+      "summary": "This perspective article discusses how agentic AI could be used to generate, validate, and govern synthetic microbial genomic data, emphasizing the need for biological plausibility and trustworthy workflows. It highlights the potential of genomic foundation models for large-scale sequence generation while addressing challenges in ensuring data quality and governance.",
       "significance": "Medium",
       "tags": [
         "microbiome",
         "genomics",
-        "machine-learning"
+        "AI"
+      ]
+    },
+    {
+      "id": "cbe4803d6ae3",
+      "title": "Microbial enzyme-responsive inulin nanoparticles for colon-targeted oral delivery of 5-ASA toward improved therapy of inflammatory bowel disease.",
+      "abstract": "Colon-targeted delivery of 5-aminosalicylic acid (5-ASA) offers an effective strategy for treating inflammatory bowel disease (IBD) while minimizing systemic side effects. However, conventional oral 5-ASA formulations suffer from premature drug release and poor colon specificity. To overcome these limitations, we developed a biodegradable, prebiotic, and immunomodulatory inulin nanoparticle (INP) platform enabling microbial enzyme-responsive and site-specific release of 5-ASA in the colon.",
+      "journal": "Theranostics",
+      "doi": "10.7150/thno.127560",
+      "pmid": "42707702",
+      "first_author": "Park H",
+      "pub_date": "2026--01",
+      "source": "PubMed",
+      "url": "https://doi.org/10.7150%2Fthno.127560",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.7150%2Fthno.127560"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42707702/"
+        }
+      ],
+      "summary": "This paper describes a new colon-targeted oral drug delivery system using inulin nanoparticles that release 5-ASA in response to microbial enzymes in the colon, improving treatment of inflammatory bowel disease. The platform addresses limitations of conventional formulations by reducing premature release and enhancing colon specificity, while also leveraging inulin's prebiotic and immunomodulatory properties.",
+      "significance": "Medium",
+      "tags": [
+        "drug-discovery",
+        "microbiome",
+        "clinical"
+      ]
+    },
+    {
+      "id": "0f077fd79c98",
+      "title": "Effect of quorum quenching enzyme YtnP on immune response and intestinal microbiota in Aeromonas hydrophila-infected grass carp (Ctenopharyngodon idella).",
+      "abstract": "Aeromonas hydrophila induces tissue swelling, necrosis, ulcers, and hemorrhagic septicemia in grass carp, causing significant economic losses. Quorum sensing, a communication mechanism among microorganisms, plays a key role in microbial ecological competition and dynamic equilibrium. Quorum quenching has emerged as a hot spot in anti-bacterial infection research. In this study, grass carp (n = 75 per group) were intraperitoneally injected with A. hydrophila and the quorum quenching enzyme YtnP. The expression levels of immune-related genes were assessed by qPCR. The intestinal microbiota was s",
+      "journal": "Frontiers in microbiology",
+      "doi": "10.3389/fmicb.2026.1853827",
+      "pmid": "42707272",
+      "first_author": "Luo H",
+      "pub_date": "2026--01",
+      "source": "PubMed",
+      "url": "https://doi.org/10.3389%2Ffmicb.2026.1853827",
+      "links": [
+        {
+          "type": "doi",
+          "label": "DOI",
+          "url": "https://doi.org/10.3389%2Ffmicb.2026.1853827"
+        },
+        {
+          "type": "pubmed",
+          "label": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42707272/"
+        }
+      ],
+      "summary": "This study investigates the effects of the quorum quenching enzyme YtnP on immune responses and gut microbiota in grass carp infected with Aeromonas hydrophila. The findings suggest that YtnP modulates immune gene expression and intestinal microbial composition, potentially offering a strategy to combat bacterial infections in aquaculture.",
+      "significance": "Medium",
+      "tags": [
+        "microbiome",
+        "immunology",
+        "microbiology"
       ]
     },
     {
@@ -1328,7 +1420,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42698579/"
         }
       ],
-      "summary": "This study explores the bacterial diversity in soils from the Western Ghats biodiversity hotspot in India, focusing on plant growth-promoting bacteria with potential agricultural applications. The findings highlight the untapped microbial resources in this region, which could support sustainable farming practices.",
+      "summary": "This study explores the bacterial diversity in soils from the Western Ghats biodiversity hotspot in India, focusing on plant growth-promoting bacteria. It highlights the untapped potential of these indigenous microbial communities for sustainable agriculture and one-health approaches.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -1359,7 +1451,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42698445/"
         }
       ],
-      "summary": "This study integrates network pharmacology, three machine learning algorithms, and molecular docking to construct a 'microbiota-metabolite-target' regulatory network in inflammatory bowel disease (IBD), identifying a novel C5AR1/KDM2A/HCAR3 axis targeted by gut microbiota-derived metabolites. The findings provide a systematic framework for understanding how microbial metabolites may influence IBD pathogenesis and offer potential therapeutic targets.",
+      "summary": "This study integrates network pharmacology, multiple machine learning algorithms, and molecular docking to construct a 'gut microbiota-metabolite-target' regulatory network in inflammatory bowel disease (IBD), identifying a C5AR1/KDM2A/HCAR3 axis as a potential key pathway. The findings suggest that gut microbiota-derived metabolites may influence IBD through this axis, providing a systematic framework for understanding the molecular mechanisms and potential therapeutic targets.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -1390,7 +1482,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42694649/"
         }
       ],
-      "summary": "This study investigates gut microbiota differences in pre-pubertal females with ADHD compared to controls, addressing a gap in research that has largely focused on males. It identifies potential microbial biomarkers associated with ADHD in this understudied population, suggesting a role for the microbiota-gut-brain axis in females.",
+      "summary": "This study examines gut microbiota differences in pre-pubertal females with ADHD compared to controls, addressing a gap in research that has largely focused on males or mixed-gender cohorts. The authors identify potential microbial biomarkers associated with ADHD in this specific population, suggesting a role for the microbiota-gut-brain axis in females.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -1421,7 +1513,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42694373/"
         }
       ],
-      "summary": "This review examines how intracellular pathogenic bacteria evade immune clearance and antibiotic therapy by hiding within host cells, adopting dormant states, and rewiring host pathways, contributing to chronic and difficult-to-treat infections. It synthesizes invasion and persistence strategies of obligate and facultative intracellular bacteria, highlighting their potential role in carcinogenesis and the need for novel therapeutic approaches.",
+      "summary": "This review synthesizes how obligate and facultative intracellular bacteria invade and persist within host cells, highlighting their strategies to evade immune clearance and antibiotic therapy. It discusses the clinical challenges of chronic, recurrent infections and potential links to carcinogenesis, while outlining therapeutic approaches against these pathogens.",
       "significance": "Medium",
       "tags": [
         "microbiology",
@@ -1452,11 +1544,11 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42689139/"
         }
       ],
-      "summary": "This review discusses how phytohormone priming and crosstalk networks involving transcription factors like WRKY, MYB, and NAC help rice cope with combined biotic and abiotic stresses under climate change. It highlights the role of multi-omics approaches, including spatial and single-cell transcriptomics, in uncovering the molecular basis of hormonal priming and epigenetic stress memory, and suggests metabolic engineering strategies for developing climate-resilient rice varieties.",
+      "summary": "This review synthesizes current knowledge on how phytohormone priming and crosstalk networks (involving WRKY, MYB, and NAC transcription factors) mediate rice stress responses to combined biotic and abiotic stresses. It highlights how multi-omics approaches, including spatial and single-cell transcriptomics, are uncovering the molecular architecture of hormonal priming and epigenetic stress memory, offering a framework for engineering climate-resilient rice.",
       "significance": "Medium",
       "tags": [
+        "review",
         "transcriptomics",
-        "multi-omics",
         "plants"
       ]
     },
@@ -1483,12 +1575,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42688748/"
         }
       ],
-      "summary": "This study shows that the probiotic Lactobacillus acidophilus CICC 22162 can alleviate cognitive impairment caused by sleep deprivation in mice. The beneficial effect is linked to remodeling of the gut microbiota and enhancement of S-adenosylmethionine-mediated neuroimmune regulation, suggesting a gut-brain axis mechanism.",
+      "summary": "This study shows that the probiotic Lactobacillus acidophilus CICC 22162 can alleviate cognitive impairment caused by sleep deprivation in mice. The mechanism involves remodeling the gut microbiota and enhancing S-adenosylmethionine-mediated neuroimmune regulation, which helps protect hippocampal function.",
       "significance": "Medium",
       "tags": [
         "microbiome",
         "neuroscience",
-        "gut-brain axis"
+        "clinical"
       ]
     },
     {
@@ -1514,7 +1606,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42688072/"
         }
       ],
-      "summary": "This study integrates multi-omics data to identify a plasma metabolite signature associated with gut microbiota that can aid in Alzheimer's disease diagnosis and highlight metabolic pathways for targeted intervention. The findings support the gut-brain axis's role in AD and suggest a non-invasive diagnostic approach.",
+      "summary": "This study integrates multi-omics data to identify a plasma metabolite signature associated with gut microbiota that can aid in Alzheimer's disease diagnosis and reveal potential metabolic pathways for therapeutic targeting. The findings support the gut-brain axis's role in AD and suggest a non-invasive diagnostic approach.",
       "significance": "Medium",
       "tags": [
         "metabolomics",
@@ -1545,12 +1637,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42688031/"
         }
       ],
-      "summary": "This meta-analysis evaluates the effects of probiotic supplementation on neonatal outcomes, specifically focusing on prematurity-related morbidity, jaundice, and respiratory distress syndrome. The findings suggest that probiotics may improve these outcomes through modulation of the gut microbiome and related axes, though the authors note inconsistencies in published results.",
+      "summary": "This meta-analysis evaluates the effects of probiotic supplementation on neonatal complications associated with prematurity, including jaundice and respiratory distress syndrome. The findings suggest that probiotics may improve neonatal outcomes by modulating the gut microbiome and related axes, though results highlight variability across studies.",
       "significance": "Medium",
       "tags": [
         "microbiome",
         "clinical",
-        "meta-analysis"
+        "metagenomics"
       ]
     },
     {
@@ -1576,7 +1668,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42683394/"
         }
       ],
-      "summary": "This review examines how non-nutritive sweeteners (NNS) affect the gut microbiome and tumor immunity, highlighting that findings vary widely depending on sweetener type, formulation (purified vs. commercial), dose, and host factors. The authors propose a sucralose-centered translational model and emphasize that purified compounds and commercial formulations are not biologically equivalent, which complicates research and clinical interpretation.",
+      "summary": "This review examines how non-nutritive sweeteners (NNS), particularly sucralose, affect the gut microbiome and tumor immunity, highlighting that purified compounds and commercial formulations are biologically non-equivalent due to carrier ingredients and other factors. The authors propose a sucralose-centered translational model and organize evidence hierarchically to guide future research on NNS-microbiome-immune interactions.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -1607,7 +1699,7 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42682887/"
         }
       ],
-      "summary": "This study investigates how the microbial community and metabolites of Yuba (tofu skin) change over time during ambient storage, revealing dynamic shifts that contribute to quality deterioration and spoilage. The findings identify potential biomarkers for spoilage, offering insights for quality control of this high-protein plant-based food.",
+      "summary": "This study investigates how the microbial community and metabolites of Yuba (tofu skin) change over time during ambient storage, revealing dynamic shifts that contribute to quality deterioration and spoilage. The findings identify potential biomarkers that could be used for quality control of this high-protein, high-lipid plant-based food.",
       "significance": "Medium",
       "tags": [
         "microbiome",
@@ -1638,12 +1730,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42682646/"
         }
       ],
-      "summary": "This review synthesizes evidence from 2009-2025 on using fermented fruit waste as a soil amendment, showing it can improve soil microbiome activity and agronomic outcomes while managing food waste. It highlights the potential of controlled fermentation to convert fruit residues into beneficial, biologically active soil additives.",
+      "summary": "This review synthesizes evidence from 2009-2025 on using fermented fruit waste as a soil amendment, showing it can improve soil microbiome activity and agronomic outcomes while managing agricultural waste. It highlights the potential of controlled fermentation to convert fruit residues into stabilized, biologically active products that benefit soil health.",
       "significance": "Medium",
       "tags": [
         "microbiome",
-        "review",
-        "agriculture"
+        "agriculture",
+        "review"
       ]
     },
     {
@@ -1669,105 +1761,12 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42682622/"
         }
       ],
-      "summary": "This study investigates whether gut microbiota composition is associated with the efficacy of a multimodal therapy (SBRT plus cadonilimab and lenvatinib) in hepatocellular carcinoma patients with portal vein tumor thrombus. By analyzing data from a phase II trial, the authors identify specific microbial features that may predict therapeutic response, suggesting that gut microbiota could serve as a biomarker for patient selection.",
+      "summary": "This study investigates whether gut microbiota composition is associated with the efficacy of a multimodal combination therapy (SBRT plus cadonilimab and lenvatinib) in hepatocellular carcinoma patients with portal vein tumor thrombus. By analyzing samples from a prospective phase II trial, the authors identify specific microbial features that may predict therapeutic response, suggesting gut microbiota as a potential biomarker for patient stratification in this challenging setting.",
       "significance": "Medium",
       "tags": [
         "microbiome",
         "cancer",
         "clinical"
-      ]
-    },
-    {
-      "id": "6b7903858a53",
-      "title": "Bidirectional Mendelian randomization between oral microbiota and allergic rhinitis in East Asian populations.",
-      "abstract": "To investigate the bidirectional causal associations between genetically predicted oral microbial taxa and allergic rhinitis (AR) in East Asian populations.",
-      "journal": "Journal of oral microbiology",
-      "doi": "10.1080/20002297.2026.2721043",
-      "pmid": "42676825",
-      "first_author": "Zhang C",
-      "pub_date": "2026--01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.1080%2F20002297.2026.2721043",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.1080%2F20002297.2026.2721043"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42676825/"
-        }
-      ],
-      "summary": "This study uses bidirectional Mendelian randomization to investigate causal links between oral microbiota and allergic rhinitis (AR) in East Asian populations. The findings suggest potential causal effects of certain oral microbial taxa on AR risk, and possibly reverse effects, highlighting the oral-gut-airway axis in allergic disease.",
-      "significance": "Medium",
-      "tags": [
-        "microbiome",
-        "clinical",
-        "population-genetics"
-      ]
-    },
-    {
-      "id": "fc2535aabd2a",
-      "title": "Correlation between oral microbiome characteristics and clinical phenotypes in patients with GERD and its changes after anti-reflux surgery.",
-      "abstract": "Gastroesophageal reflux disease is defined by the reflux of gastroduodenal material into the esophagus, leading to troublesome symptoms and complications. Although the gastrointestinal microbiome has been increasingly implicated in gastroesophageal reflux disease pathogenesis, existing research has largely centered on esophageal and intestinal microbiota. The alterations and clinical relevance of the oral microbiome in gastroesophageal reflux disease remain underexplored. Therefore, this study was designed to: (1) systematically compare the oral microbiome structure between gastroesophageal re",
-      "journal": "Frontiers in microbiology",
-      "doi": "10.3389/fmicb.2026.1878947",
-      "pmid": "42676736",
-      "first_author": "Wang Z",
-      "pub_date": "2026--01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3389%2Ffmicb.2026.1878947",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3389%2Ffmicb.2026.1878947"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42676736/"
-        }
-      ],
-      "summary": "This study investigates how the oral microbiome differs in patients with gastroesophageal reflux disease (GERD) compared to healthy individuals, and how these microbial changes correlate with clinical symptoms. The authors also examine whether anti-reflux surgery alters the oral microbiome composition, potentially linking microbial shifts to treatment outcomes. This work expands the focus from esophageal and gut microbiota to the understudied oral cavity in GERD.",
-      "significance": "Medium",
-      "tags": [
-        "microbiome",
-        "clinical",
-        "metagenomics"
-      ]
-    },
-    {
-      "id": "f075faa5678f",
-      "title": "rCCLasso: a robust framework for microbial correlation network analysis reveals age-related microbial dynamics.",
-      "abstract": "The human gut microbiome continues to evolve beyond early adulthood, yet most microbiome aging studies focus on changes in individual taxa or overall diversity, leaving microbial interaction dynamics largely unexplored. Correlation-based microbial networks offer an interpretable framework for studying such interactions but are challenging to estimate from compositional microbiome data. Although compositionality-aware methods such as CCLasso provide principled multivariate inference, we identify a previously overlooked limitation: sensitivity to random seeds, which leads to unstable correlation",
-      "journal": "Frontiers in cellular and infection microbiology",
-      "doi": "10.3389/fcimb.2026.1828471",
-      "pmid": "42676412",
-      "first_author": "Xie T",
-      "pub_date": "2026--01",
-      "source": "PubMed",
-      "url": "https://doi.org/10.3389%2Ffcimb.2026.1828471",
-      "links": [
-        {
-          "type": "doi",
-          "label": "DOI",
-          "url": "https://doi.org/10.3389%2Ffcimb.2026.1828471"
-        },
-        {
-          "type": "pubmed",
-          "label": "PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42676412/"
-        }
-      ],
-      "summary": "This paper introduces rCCLasso, a robust framework for microbial correlation network analysis that addresses instability issues in the existing CCLasso method caused by random seeds. Applying rCCLasso to gut microbiome data reveals age-related changes in microbial interaction dynamics, providing new insights into how microbial networks evolve with age.",
-      "significance": "Medium",
-      "tags": [
-        "microbiome",
-        "tool",
-        "methodology"
       ]
     }
   ]
